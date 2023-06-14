@@ -1,0 +1,390 @@
+{
+  "netsbloxSoundLibrary": [
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "DriftingPulsations_80BPM_F#_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "Saxophone_80BPM_F_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "Saxophone_80BPM_G_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "80sWaveBells_80BPM_F#_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "DriftingPulsations_80BPM_E_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "DriftingPulsations_80BPM_D_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "Saxophone_80BPM_Bb_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "BoardingArea_80BPM_A_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "80sWaveBells_80BPM_G_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "80sWaveBells_80BPM_F_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "BoardingArea_80BPM_Eb_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "BoardingArea_80BPM_C#_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "80sWaveBells_80BPM_Ab_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "DriftingPulsations_80BPM_Ab_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "80sWaveBells_80BPM_A_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "BoardingArea_80BPM_Bb_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "Saxophone_80BPM_A_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {},
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "DriftingPulsations_80BPM_B_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "DriftingPulsations_80BPM_C_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "Saxophone_80BPM_Eb_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "BoardingArea_80BPM_F_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "BoardingArea_80BPM_G_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "Saxophone_80BPM_C#_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "DriftingPulsations_80BPM_Bb_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "80sWaveBells_80BPM_Bb_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "BoardingArea_80BPM_Ab_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "Saxophone_80BPM_F#_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "80sWaveBells_80BPM_D_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "80sWaveBells_80BPM_E_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "DriftingPulsations_80BPM_F_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "DriftingPulsations_80BPM_G_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "BoardingArea_80BPM_B_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "BoardingArea_80BPM_C_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "Saxophone_80BPM_E_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "Saxophone_80BPM_D_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "DriftingPulsations_80BPM_A_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "BoardingArea_80BPM_E_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "BoardingArea_80BPM_D_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "Saxophone_80BPM_B_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "Saxophone_80BPM_C_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "Saxophone_80BPM_Ab_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "BoardingArea_80BPM_F#_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "80sWaveBells_80BPM_Eb_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "DriftingPulsations_80BPM_C#_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "DriftingPulsations_80BPM_Eb_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "80sWaveBells_80BPM_C#_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "80sWaveBells_80BPM_C_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "80sWaveBells_80BPM_B_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    }
+  ]
+}

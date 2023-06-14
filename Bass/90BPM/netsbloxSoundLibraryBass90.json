@@ -1,0 +1,391 @@
+{
+  "netsbloxSoundLibrary": [
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Liverpool_90BPM_Bb_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_Bb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Liverpool_90BPM_F_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_F_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Liverpool_90BPM_G_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_G_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "BrightSynthBrass_90BPM_D_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_D_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "BrightSynthBrass_90BPM_E_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_E_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "BrightSynthBrass_90BPM_Ab_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_Ab_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "90sSolidSynthBass_90BPM_Bb_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_Bb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "90sSolidSynthBass_90BPM_D_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_D_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "90sSolidSynthBass_90BPM_E_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_E_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "SolidSoulElectricBass_90BPM_E_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_E_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "SolidSoulElectricBass_90BPM_D_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_D_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "SolidSoulElectricBass_90BPM_F#_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_F#_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "BrightSynthBrass_90BPM_C_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_C_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "BrightSynthBrass_90BPM_B_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_B_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "90sSolidSynthBass_90BPM_C_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_C_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "90sSolidSynthBass_90BPM_B_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_B_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "90sSolidSynthBass_90BPM_C#_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_C#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "90sSolidSynthBass_90BPM_Eb_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_Eb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "SolidSoulElectricBass_90BPM_B_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_B_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "SolidSoulElectricBass_90BPM_C_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_C_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Liverpool_90BPM_C#_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_C#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Liverpool_90BPM_Eb_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_Eb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "SolidSoulElectricBass_90BPM_Ab_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_Ab_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Liverpool_90BPM_A_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_A_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "BrightSynthBrass_90BPM_F#_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_F#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Liverpool_90BPM_F#_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_F#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "90sSolidSynthBass_90BPM_G_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_G_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "90sSolidSynthBass_90BPM_F_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_F_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "SolidSoulElectricBass_90BPM_F_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_F_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "SolidSoulElectricBass_90BPM_G_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_G_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "BrightSynthBrass_90BPM_Eb_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_Eb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "BrightSynthBrass_90BPM_G_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_G_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "BrightSynthBrass_90BPM_F_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_F_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "BrightSynthBrass_90BPM_C#_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_C#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Liverpool_90BPM_E_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_E_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Liverpool_90BPM_D_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_D_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "90sSolidSynthBass_90BPM_F#_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_F#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "SolidSoulElectricBass_90BPM_Bb_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_Bb_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Liverpool_90BPM_B_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_B_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Liverpool_90BPM_C_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_C_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Liverpool_90BPM_Ab_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_Ab_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "SolidSoulElectricBass_90BPM_Eb_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_Eb_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "SolidSoulElectricBass_90BPM_C#_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_C#_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "90sSolidSynthBass_90BPM_A_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_A_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "SolidSoulElectricBass_90BPM_A_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_A_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "BrightSynthBrass_90BPM_A_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_A_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "90sSolidSynthBass_90BPM_Ab_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_Ab_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "BrightSynthBrass_90BPM_Bb_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_Bb_1564.mp3",
+      "SoundType": "Bass"
+    }
+  ]
+}

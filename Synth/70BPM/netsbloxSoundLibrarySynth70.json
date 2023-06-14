@@ -1,0 +1,198 @@
+{
+  "netsbloxSoundLibrary": [
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "BoardingArea_70BPM_A_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "FutureFeelsBrass_70BPM_Ab_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "FutureFeelsBrass_70BPM_D_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "FutureFeelsBrass_70BPM_E_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "BoardingArea_70BPM_C#_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "BoardingArea_70BPM_Eb_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "FutureFeelsBrass_70BPM_F#_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "BoardingArea_70BPM_Bb_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "BoardingArea_70BPM_G_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "BoardingArea_70BPM_F_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "FutureFeelsBrass_70BPM_C_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "FutureFeelsBrass_70BPM_B_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "BoardingArea_70BPM_Ab_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "FutureFeelsBrass_70BPM_C#_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "FutureFeelsBrass_70BPM_G_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "FutureFeelsBrass_70BPM_F_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "FutureFeelsBrass_70BPM_Eb_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "BoardingArea_70BPM_C_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "BoardingArea_70BPM_B_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "BoardingArea_70BPM_F#_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "FutureFeelsBrass_70BPM_Bb_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "FutureFeelsBrass_70BPM_A_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "BoardingArea_70BPM_D_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "BoardingArea_70BPM_E_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    }
+  ]
+}

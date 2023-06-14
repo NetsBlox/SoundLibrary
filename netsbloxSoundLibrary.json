@@ -1,0 +1,5125 @@
+{
+  "netsbloxSoundLibrary": [
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "GhostlyReversedOrgan_110BPM_C_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "GhostlyReversedOrgan_110BPM_B_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "DreamSinesPad_110BPM_F#_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_F#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "SunriseChords_110BPM_Bb_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "PulsatingWaves_110BPM_Eb_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_Eb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "PulsatingWaves_110BPM_E_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_E_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "PulsatingWaves_110BPM_D_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_D_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "PulsatingWaves_110BPM_C#_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_C#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "SunriseChords_110BPM_A_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "DreamSinesPad_110BPM_F_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_F_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "DreamSinesPad_110BPM_G_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_G_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "GhostlyReversedOrgan_110BPM_Ab_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "SunriseChords_110BPM_G_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "SunriseChords_110BPM_F_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "DreamSinesPad_110BPM_A_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_A_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "DreamSinesPad_110BPM_Ab_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_Ab_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "GhostlyReversedOrgan_110BPM_D_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "GhostlyReversedOrgan_110BPM_E_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {},
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "SunriseChords_110BPM_C#_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "PulsatingWaves_110BPM_B_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_B_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "PulsatingWaves_110BPM_C_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_C_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "PulsatingWaves_110BPM_Bb_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_Bb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "GhostlyReversedOrgan_110BPM_F#_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "SunriseChords_110BPM_Eb_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "DreamSinesPad_110BPM_Bb_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_Bb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "SunriseChords_110BPM_C_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "SunriseChords_110BPM_B_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "SunriseChords_110BPM_F#_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "DreamSinesPad_110BPM_E_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_E_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "DreamSinesPad_110BPM_D_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_D_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "GhostlyReversedOrgan_110BPM_Eb_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "GhostlyReversedOrgan_110BPM_C#_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "PulsatingWaves_110BPM_F_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_F_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "PulsatingWaves_110BPM_G_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_G_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "GhostlyReversedOrgan_110BPM_A_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "PulsatingWaves_110BPM_Ab_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_Ab_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "PulsatingWaves_110BPM_A_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_A_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "GhostlyReversedOrgan_110BPM_G_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "GhostlyReversedOrgan_110BPM_F_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "SunriseChords_110BPM_Ab_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "DreamSinesPad_110BPM_C#_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_C#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "DreamSinesPad_110BPM_Eb_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_Eb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "SunriseChords_110BPM_D_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "SunriseChords_110BPM_E_1564",
+      "Path": "./Synth/110BPM/SunriseChords_110BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "DreamSinesPad_110BPM_B_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_B_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "DreamSinesPad_110BPM_C_3625",
+      "Path": "./Synth/110BPM/DreamSinesPad_110BPM_C_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "GhostlyReversedOrgan_110BPM_Bb_1564",
+      "Path": "./Synth/110BPM/GhostlyReversedOrgan_110BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "PulsatingWaves_110BPM_F#_3625",
+      "Path": "./Synth/110BPM/PulsatingWaves_110BPM_F#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "SunriseChords_100BPM_C#_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "SunriseChords_100BPM_A_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "GhostlyReversedOrgan_100BPM_F#_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "SunriseChords_100BPM_Eb_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "PulsatingWaves_100BPM_Bb_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_Bb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "DreamSinesPad_100BPM_F_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_F_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "DreamSinesPad_100BPM_G_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_G_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "DreamSinesPad_100BPM_Ab_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_Ab_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "PulsatingWaves_100BPM_E_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_E_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "PulsatingWaves_100BPM_D_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_D_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "GhostlyReversedOrgan_100BPM_C_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "GhostlyReversedOrgan_100BPM_B_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "PulsatingWaves_100BPM_B_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_B_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "PulsatingWaves_100BPM_C_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_C_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "GhostlyReversedOrgan_100BPM_Ab_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "GhostlyReversedOrgan_100BPM_D_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "GhostlyReversedOrgan_100BPM_E_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "DreamSinesPad_100BPM_F#_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_F#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {},
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "PulsatingWaves_100BPM_Eb_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_Eb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "SunriseChords_100BPM_Bb_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "SunriseChords_100BPM_G_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "SunriseChords_100BPM_F_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "DreamSinesPad_100BPM_A_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_A_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "PulsatingWaves_100BPM_C#_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_C#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "DreamSinesPad_100BPM_C#_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_C#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "GhostlyReversedOrgan_100BPM_A_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "DreamSinesPad_100BPM_Eb_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_Eb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "PulsatingWaves_100BPM_F#_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_F#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "PulsatingWaves_100BPM_F_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_F_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "PulsatingWaves_100BPM_G_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_G_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "GhostlyReversedOrgan_100BPM_Bb_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "SunriseChords_100BPM_C_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "SunriseChords_100BPM_B_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "DreamSinesPad_100BPM_E_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_E_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "DreamSinesPad_100BPM_D_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_D_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "SunriseChords_100BPM_Ab_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "SunriseChords_100BPM_D_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "SunriseChords_100BPM_E_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "DreamSinesPad_100BPM_B_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_B_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "DreamSinesPad_100BPM_C_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_C_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "PulsatingWaves_100BPM_Ab_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_Ab_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "DreamSinesPad_100BPM_Bb_3625",
+      "Path": "./Synth/100BPM/DreamSinesPad_100BPM_Bb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "GhostlyReversedOrgan_100BPM_G_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "GhostlyReversedOrgan_100BPM_F_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "SunriseChords_100BPM_F#_1564",
+      "Path": "./Synth/100BPM/SunriseChords_100BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "GhostlyReversedOrgan_100BPM_Eb_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "PulsatingWaves_100BPM_A_3625",
+      "Path": "./Synth/100BPM/PulsatingWaves_100BPM_A_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "GhostlyReversedOrgan_100BPM_C#_1564",
+      "Path": "./Synth/100BPM/GhostlyReversedOrgan_100BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "PulsatingWaves_90BPM_Eb_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_Eb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "BrightDigitalChords_90BPM_C#_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "AcousticGuitar_90BPM_G_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "AcousticGuitar_90BPM_F_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "PulsatingWaves_90BPM_C#_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_C#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "BrightDigitalChords_90BPM_Eb_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "PulsatingWaves_90BPM_C_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_C_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "PulsatingWaves_90BPM_B_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_B_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "AcousticGuitar_90BPM_F#_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "DreamSinesPad_90BPM_A_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_A_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "DreamSinesPad_90BPM_Ab_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_Ab_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "CloudyPluckedSynth_90BPM_Ab_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "BrightDigitalChords_90BPM_D_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "BrightDigitalChords_90BPM_E_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "CloudyPluckedSynth_90BPM_A_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "AcousticGuitar_90BPM_Ab_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "BrightDigitalChords_90BPM_C_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "BrightDigitalChords_90BPM_B_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "CloudyPluckedSynth_90BPM_F_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "CloudyPluckedSynth_90BPM_G_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "BrightDigitalChords_90BPM_Bb_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "CloudyPluckedSynth_90BPM_F#_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "DreamSinesPad_90BPM_F#_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_F#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "AcousticGuitar_90BPM_A_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "PulsatingWaves_90BPM_D_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_D_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "PulsatingWaves_90BPM_E_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_E_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "PulsatingWaves_90BPM_Bb_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_Bb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "DreamSinesPad_90BPM_G_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_G_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "DreamSinesPad_90BPM_F_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_F_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "CloudyPluckedSynth_90BPM_C#_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "DreamSinesPad_90BPM_Eb_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_Eb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "BrightDigitalChords_90BPM_G_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "BrightDigitalChords_90BPM_F_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "CloudyPluckedSynth_90BPM_B_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "CloudyPluckedSynth_90BPM_C_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "AcousticGuitar_90BPM_Bb_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "CloudyPluckedSynth_90BPM_Eb_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "DreamSinesPad_90BPM_C#_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_C#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "PulsatingWaves_90BPM_Ab_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_Ab_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "DreamSinesPad_90BPM_C_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_C_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "DreamSinesPad_90BPM_B_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_B_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "BrightDigitalChords_90BPM_Ab_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "AcousticGuitar_90BPM_D_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "AcousticGuitar_90BPM_E_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "PulsatingWaves_90BPM_A_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_A_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "DreamSinesPad_90BPM_D_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_D_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "DreamSinesPad_90BPM_E_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_E_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "AcousticGuitar_90BPM_C_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "AcousticGuitar_90BPM_B_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "PulsatingWaves_90BPM_G_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_G_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "PulsatingWaves_90BPM_F_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_F_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "CloudyPluckedSynth_90BPM_Bb_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "BrightDigitalChords_90BPM_A_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "BrightDigitalChords_90BPM_F#_1564",
+      "Path": "./Synth/90BPM/BrightDigitalChords_90BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "AcousticGuitar_90BPM_Eb_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "CloudyPluckedSynth_90BPM_E_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "CloudyPluckedSynth_90BPM_D_1564",
+      "Path": "./Synth/90BPM/CloudyPluckedSynth_90BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "AcousticGuitar_90BPM_C#_1564",
+      "Path": "./Synth/90BPM/AcousticGuitar_90BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "PulsatingWaves_90BPM_F#_3625",
+      "Path": "./Synth/90BPM/PulsatingWaves_90BPM_F#_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "DreamSinesPad_90BPM_Bb_3625",
+      "Path": "./Synth/90BPM/DreamSinesPad_90BPM_Bb_3625.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "DriftingPulsations_80BPM_F#_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "Saxophone_80BPM_F_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "Saxophone_80BPM_G_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "80sWaveBells_80BPM_F#_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "DriftingPulsations_80BPM_E_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "DriftingPulsations_80BPM_D_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "Saxophone_80BPM_Bb_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "BoardingArea_80BPM_A_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "80sWaveBells_80BPM_G_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "80sWaveBells_80BPM_F_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "BoardingArea_80BPM_Eb_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "BoardingArea_80BPM_C#_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "80sWaveBells_80BPM_Ab_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "DriftingPulsations_80BPM_Ab_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "80sWaveBells_80BPM_A_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "BoardingArea_80BPM_Bb_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "Saxophone_80BPM_A_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {},
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "DriftingPulsations_80BPM_B_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "DriftingPulsations_80BPM_C_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "Saxophone_80BPM_Eb_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "BoardingArea_80BPM_F_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "BoardingArea_80BPM_G_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "Saxophone_80BPM_C#_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "DriftingPulsations_80BPM_Bb_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "80sWaveBells_80BPM_Bb_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "BoardingArea_80BPM_Ab_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "Saxophone_80BPM_F#_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "80sWaveBells_80BPM_D_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "80sWaveBells_80BPM_E_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "DriftingPulsations_80BPM_F_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "DriftingPulsations_80BPM_G_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "BoardingArea_80BPM_B_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "BoardingArea_80BPM_C_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "Saxophone_80BPM_E_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "Saxophone_80BPM_D_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "DriftingPulsations_80BPM_A_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "BoardingArea_80BPM_E_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "BoardingArea_80BPM_D_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "Saxophone_80BPM_B_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "Saxophone_80BPM_C_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "Saxophone_80BPM_Ab_1564",
+      "Path": "./Synth/80BPM/Saxophone_80BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "BoardingArea_80BPM_F#_1564",
+      "Path": "./Synth/80BPM/BoardingArea_80BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "80sWaveBells_80BPM_Eb_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "DriftingPulsations_80BPM_C#_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "DriftingPulsations_80BPM_Eb_1564",
+      "Path": "./Synth/80BPM/DriftingPulsations_80BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "80sWaveBells_80BPM_C#_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "80sWaveBells_80BPM_C_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "80sWaveBells_80BPM_B_1564",
+      "Path": "./Synth/80BPM/80sWaveBells_80BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "BoardingArea_70BPM_A_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "FutureFeelsBrass_70BPM_Ab_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "FutureFeelsBrass_70BPM_D_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "FutureFeelsBrass_70BPM_E_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "BoardingArea_70BPM_C#_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "BoardingArea_70BPM_Eb_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "FutureFeelsBrass_70BPM_F#_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "BoardingArea_70BPM_Bb_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "BoardingArea_70BPM_G_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "BoardingArea_70BPM_F_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {},
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "FutureFeelsBrass_70BPM_C_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "FutureFeelsBrass_70BPM_B_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "BoardingArea_70BPM_Ab_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_Ab_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "FutureFeelsBrass_70BPM_C#_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_C#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "FutureFeelsBrass_70BPM_G_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_G_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "FutureFeelsBrass_70BPM_F_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_F_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "FutureFeelsBrass_70BPM_Eb_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_Eb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "BoardingArea_70BPM_C_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_C_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "BoardingArea_70BPM_B_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_B_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "BoardingArea_70BPM_F#_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_F#_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "FutureFeelsBrass_70BPM_Bb_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_Bb_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "FutureFeelsBrass_70BPM_A_1564",
+      "Path": "./Synth/70BPM/FutureFeelsBrass_70BPM_A_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "BoardingArea_70BPM_D_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_D_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "BoardingArea_70BPM_E_1564",
+      "Path": "./Synth/70BPM/BoardingArea_70BPM_E_1564.mp3",
+      "SoundType": "Synth"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "JazzOrgan_110BPM_A_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "ClassicElectricPiano_110BPM_Ab_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_Ab_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "ToyPiano_110BPM_F#_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Steinway_110BPM_A_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "ClassicElectricPiano_110BPM_E_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_E_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "ClassicElectricPiano_110BPM_D_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_D_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "ClassicSuitcasePiano_110BPM_C#_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_C#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "ClassicSuitcasePiano_110BPM_Eb_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_Eb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "ToyPiano_110BPM_F_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "ToyPiano_110BPM_G_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "JazzOrgan_110BPM_C#_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "ClassicSuitcasePiano_110BPM_F_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_F_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "ClassicSuitcasePiano_110BPM_G_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_G_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Steinway_110BPM_F#_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "JazzOrgan_110BPM_Eb_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "ClassicElectricPiano_110BPM_F#_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_F#_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "ClassicSuitcasePiano_110BPM_Bb_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_Bb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "ClassicSuitcasePiano_110BPM_A_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_A_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "JazzOrgan_110BPM_Bb_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "ToyPiano_110BPM_A_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "ToyPiano_110BPM_Ab_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "JazzOrgan_110BPM_G_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "JazzOrgan_110BPM_F_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {},
+    {},
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Steinway_110BPM_Ab_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Steinway_110BPM_G_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Steinway_110BPM_F_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "ClassicElectricPiano_110BPM_B_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_B_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "ClassicElectricPiano_110BPM_C_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_C_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "ToyPiano_110BPM_E_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "ToyPiano_110BPM_D_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "ClassicSuitcasePiano_110BPM_E_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_E_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "ClassicSuitcasePiano_110BPM_D_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_D_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "ClassicSuitcasePiano_110BPM_Ab_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_Ab_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "ToyPiano_110BPM_Bb_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "JazzOrgan_110BPM_Ab_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "ClassicElectricPiano_110BPM_C#_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_C#_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Steinway_110BPM_C_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Steinway_110BPM_B_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "ClassicElectricPiano_110BPM_Eb_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_Eb_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "ClassicElectricPiano_110BPM_F_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_F_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "ClassicElectricPiano_110BPM_G_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_G_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "JazzOrgan_110BPM_C_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "JazzOrgan_110BPM_B_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Steinway_110BPM_Bb_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "ClassicSuitcasePiano_110BPM_F#_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_F#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "ClassicElectricPiano_110BPM_Bb_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_Bb_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Steinway_110BPM_D_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Steinway_110BPM_E_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "ClassicElectricPiano_110BPM_A_3625",
+      "Path": "./Piano/110BPM/ClassicElectricPiano_110BPM_A_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Steinway_110BPM_Eb_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "JazzOrgan_110BPM_F#_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "JazzOrgan_110BPM_D_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "JazzOrgan_110BPM_E_1251",
+      "Path": "./Piano/110BPM/JazzOrgan_110BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Steinway_110BPM_C#_1251",
+      "Path": "./Piano/110BPM/Steinway_110BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "ClassicSuitcasePiano_110BPM_B_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_B_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "ClassicSuitcasePiano_110BPM_C_1564",
+      "Path": "./Piano/110BPM/ClassicSuitcasePiano_110BPM_C_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "ToyPiano_110BPM_B_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "ToyPiano_110BPM_C_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "ToyPiano_110BPM_C#_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "ToyPiano_110BPM_Eb_1251",
+      "Path": "./Piano/110BPM/ToyPiano_110BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "ClassicSuitcasePiano_100BPM_F_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_F_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "ClassicSuitcasePiano_100BPM_G_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_G_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "ToyPiano_100BPM_F_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "ToyPiano_100BPM_G_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Steinway_100BPM_Ab_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Steinway_100BPM_A_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "ClassicElectricPiano_100BPM_F#_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_F#_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "ClassicSuitcasePiano_100BPM_Bb_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_Bb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "ClassicElectricPiano_100BPM_E_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_E_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "ClassicElectricPiano_100BPM_D_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_D_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "JazzOrgan_100BPM_Bb_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "JazzOrgan_100BPM_A_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "ToyPiano_100BPM_Ab_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "ClassicSuitcasePiano_100BPM_C#_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_C#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Steinway_100BPM_G_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Steinway_100BPM_F_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "ClassicElectricPiano_100BPM_B_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_B_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "ClassicElectricPiano_100BPM_C_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_C_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "ClassicSuitcasePiano_100BPM_Eb_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_Eb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "JazzOrgan_100BPM_C#_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "JazzOrgan_100BPM_G_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "JazzOrgan_100BPM_F_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "JazzOrgan_100BPM_Eb_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Steinway_100BPM_F#_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {},
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "ClassicElectricPiano_100BPM_Ab_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_Ab_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "ToyPiano_100BPM_A_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "ClassicSuitcasePiano_100BPM_A_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_A_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {},
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "ToyPiano_100BPM_F#_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "JazzOrgan_100BPM_C_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "JazzOrgan_100BPM_B_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Steinway_100BPM_C_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Steinway_100BPM_B_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "ToyPiano_100BPM_C#_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "ClassicElectricPiano_100BPM_F_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_F_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "ClassicElectricPiano_100BPM_G_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_G_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "ToyPiano_100BPM_Eb_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "ClassicSuitcasePiano_100BPM_F#_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_F#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "ClassicElectricPiano_100BPM_Bb_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_Bb_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "JazzOrgan_100BPM_F#_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Steinway_100BPM_Eb_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Steinway_100BPM_C#_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "ClassicSuitcasePiano_100BPM_E_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_E_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "ClassicSuitcasePiano_100BPM_D_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_D_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "ToyPiano_100BPM_E_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "ToyPiano_100BPM_D_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "ClassicElectricPiano_100BPM_C#_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_C#_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "ClassicElectricPiano_100BPM_Eb_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_Eb_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Steinway_100BPM_Bb_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "ToyPiano_100BPM_B_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "ToyPiano_100BPM_C_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "ClassicSuitcasePiano_100BPM_B_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_B_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "ClassicSuitcasePiano_100BPM_C_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_C_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "JazzOrgan_100BPM_D_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "JazzOrgan_100BPM_E_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "ClassicSuitcasePiano_100BPM_Ab_1564",
+      "Path": "./Piano/100BPM/ClassicSuitcasePiano_100BPM_Ab_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "ToyPiano_100BPM_Bb_1251",
+      "Path": "./Piano/100BPM/ToyPiano_100BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Steinway_100BPM_D_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Steinway_100BPM_E_1251",
+      "Path": "./Piano/100BPM/Steinway_100BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "ClassicElectricPiano_100BPM_A_3625",
+      "Path": "./Piano/100BPM/ClassicElectricPiano_100BPM_A_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "JazzOrgan_100BPM_Ab_1251",
+      "Path": "./Piano/100BPM/JazzOrgan_100BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "ClassicElectricPiano_90BPM_C#_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_C#_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "ClassicElectricPiano_90BPM_Eb_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_Eb_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "ToyPiano_90BPM_B_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "ToyPiano_90BPM_C_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "FadedKeys_90BPM_A_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_A_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "FadedKeys_90BPM_Ab_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_Ab_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "ChilledClav_90BPM_Ab_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_Ab_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "ClassicElectricPiano_90BPM_D_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_D_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "ClassicElectricPiano_90BPM_E_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_E_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "JazzOrgan_90BPM_F#_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "ToyPiano_90BPM_Ab_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "ChilledClav_90BPM_F_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_F_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "ChilledClav_90BPM_G_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_G_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Steinway_90BPM_B_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Steinway_90BPM_C_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Steinway_90BPM_F#_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "JazzOrgan_90BPM_G_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "JazzOrgan_90BPM_F_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "FadedKeys_90BPM_F#_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_F#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Steinway_90BPM_E_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Steinway_90BPM_D_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "ChilledClav_90BPM_A_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_A_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "ChilledClav_90BPM_F#_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_F#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "JazzOrgan_90BPM_A_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "JazzOrgan_90BPM_Ab_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "ClassicElectricPiano_90BPM_Bb_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_Bb_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "ToyPiano_90BPM_E_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "ToyPiano_90BPM_D_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "ToyPiano_90BPM_F#_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "FadedKeys_90BPM_F_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_F_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "FadedKeys_90BPM_G_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_G_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Steinway_90BPM_Ab_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "ClassicElectricPiano_90BPM_C_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_C_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "ClassicElectricPiano_90BPM_B_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_B_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "ChilledClav_90BPM_E_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_E_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "ChilledClav_90BPM_D_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_D_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Steinway_90BPM_A_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "JazzOrgan_90BPM_D_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "JazzOrgan_90BPM_E_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "ToyPiano_90BPM_Eb_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "ToyPiano_90BPM_C#_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "FadedKeys_90BPM_B_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_B_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "FadedKeys_90BPM_C_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_C_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "JazzOrgan_90BPM_Bb_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "ClassicElectricPiano_90BPM_Ab_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_Ab_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "ClassicElectricPiano_90BPM_G_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_G_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "ClassicElectricPiano_90BPM_F_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_F_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Steinway_90BPM_Bb_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "ChilledClav_90BPM_C#_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_C#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "FadedKeys_90BPM_C#_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_C#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "ChilledClav_90BPM_Eb_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_Eb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "FadedKeys_90BPM_Eb_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_Eb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "ToyPiano_90BPM_A_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "JazzOrgan_90BPM_Eb_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "FadedKeys_90BPM_E_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_E_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "FadedKeys_90BPM_D_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_D_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "JazzOrgan_90BPM_C#_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "ClassicElectricPiano_90BPM_A_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_A_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Steinway_90BPM_C#_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "FadedKeys_90BPM_Bb_1564",
+      "Path": "./Piano/90BPM/FadedKeys_90BPM_Bb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "ChilledClav_90BPM_Bb_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_Bb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Steinway_90BPM_Eb_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "ToyPiano_90BPM_F_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "ToyPiano_90BPM_G_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Steinway_90BPM_F_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Steinway_90BPM_G_1251",
+      "Path": "./Piano/90BPM/Steinway_90BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "ClassicElectricPiano_90BPM_F#_3625",
+      "Path": "./Piano/90BPM/ClassicElectricPiano_90BPM_F#_3625.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "ChilledClav_90BPM_B_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_B_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "ChilledClav_90BPM_C_1564",
+      "Path": "./Piano/90BPM/ChilledClav_90BPM_C_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "JazzOrgan_90BPM_C_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "JazzOrgan_90BPM_B_1251",
+      "Path": "./Piano/90BPM/JazzOrgan_90BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "ToyPiano_90BPM_Bb_1251",
+      "Path": "./Piano/90BPM/ToyPiano_90BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "JazzOrgan_80BPM_G_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "JazzOrgan_80BPM_F_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "JazzOrgan_80BPM_Ab_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Steinway_80BPM_B_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Steinway_80BPM_C_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Steinway_80BPM_Ab_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "ToyPiano_80BPM_F#_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "ToyPiano_80BPM_B_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "ToyPiano_80BPM_C_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "JazzOrgan_80BPM_F#_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Steinway_80BPM_F#_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "ToyPiano_80BPM_Ab_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "ToyPiano_80BPM_E_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "ToyPiano_80BPM_D_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "JazzOrgan_80BPM_A_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {},
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Steinway_80BPM_E_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Steinway_80BPM_D_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {},
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "ToyPiano_80BPM_A_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "ToyPiano_80BPM_Bb_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "JazzOrgan_80BPM_Eb_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "JazzOrgan_80BPM_C#_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "JazzOrgan_80BPM_D_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "JazzOrgan_80BPM_E_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Steinway_80BPM_C#_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Steinway_80BPM_A_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Steinway_80BPM_Eb_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "JazzOrgan_80BPM_Bb_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "JazzOrgan_80BPM_C_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "JazzOrgan_80BPM_B_1251",
+      "Path": "./Piano/80BPM/JazzOrgan_80BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Steinway_80BPM_Bb_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Steinway_80BPM_F_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Steinway_80BPM_G_1251",
+      "Path": "./Piano/80BPM/Steinway_80BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "ToyPiano_80BPM_F_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "ToyPiano_80BPM_G_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "ToyPiano_80BPM_Eb_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "ToyPiano_80BPM_C#_1251",
+      "Path": "./Piano/80BPM/ToyPiano_80BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Steinway_70BPM_Ab_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_Ab_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Steinway_70BPM_C_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_C_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "ClassicSuitcase_70BPM_C_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_C_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Steinway_70BPM_B_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_B_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "ClassicSuitcase_70BPM_B_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_B_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "ClassicSuitcase_70BPM_Ab_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_Ab_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Steinway_70BPM_F#_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_F#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {},
+    {},
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "ClassicSuitcase_70BPM_F#_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_F#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Steinway_70BPM_D_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_D_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "ClassicSuitcase_70BPM_D_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_D_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Steinway_70BPM_E_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_E_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "ClassicSuitcase_70BPM_E_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_E_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "ClassicSuitcase_70BPM_C#_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_C#_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "ClassicSuitcase_70BPM_Eb_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_Eb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Steinway_70BPM_Eb_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_Eb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "ClassicSuitcase_70BPM_A_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_A_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Steinway_70BPM_A_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_A_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Steinway_70BPM_C#_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_C#_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "ClassicSuitcase_70BPM_G_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_G_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Steinway_70BPM_G_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_G_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "ClassicSuitcase_70BPM_F_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_F_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Steinway_70BPM_F_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_F_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Steinway_70BPM_Bb_1251",
+      "Path": "./Piano/70BPM/Steinway_70BPM_Bb_1251.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "ClassicSuitcase_70BPM_Bb_1564",
+      "Path": "./Piano/70BPM/ClassicSuitcase_70BPM_Bb_1564.mp3",
+      "SoundType": "Piano"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Liverpool_110BPM_Bb_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_Bb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "FingerstyleBass_110BPM_G_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_G_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "FingerstyleBass_110BPM_F_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_F_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "SolidSoulElectricBass_110BPM_A_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_A_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Liverpool_110BPM_B_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_B_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Liverpool_110BPM_C_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_C_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "FingerstyleBass_110BPM_Ab_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_Ab_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "SolidSoulElectricBass_110BPM_Ab_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_Ab_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {},
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Liverpool_110BPM_C#_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_C#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "FingerstyleBass_110BPM_A_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_A_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "SolidSoulElectricBass_110BPM_F#_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_F#_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "FingerstyleBass_110BPM_F#_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_F#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "SolidSoulElectricBass_110BPM_G_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_G_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "SolidSoulElectricBass_110BPM_F_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_F_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Liverpool_110BPM_E_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_E_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Liverpool_110BPM_D_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_D_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Liverpool_110BPM_Eb_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_Eb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "SolidSoulElectricBass_110BPM_C#_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_C#_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "FingerstyleBass_110BPM_C#_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_C#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Liverpool_110BPM_F#_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_F#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "SolidSoulElectricBass_110BPM_Eb_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_Eb_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "FingerstyleBass_110BPM_Eb_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_Eb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "FingerstyleBass_110BPM_D_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_D_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "FingerstyleBass_110BPM_E_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_E_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "SolidSoulElectricBass_110BPM_C_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_C_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "SolidSoulElectricBass_110BPM_B_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_B_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Liverpool_110BPM_A_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_A_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "FingerstyleBass_110BPM_C_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_C_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "FingerstyleBass_110BPM_B_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_B_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "SolidSoulElectricBass_110BPM_D_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_D_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "SolidSoulElectricBass_110BPM_E_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_E_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Liverpool_110BPM_F_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_F_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Liverpool_110BPM_G_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_G_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Liverpool_110BPM_Ab_1251",
+      "Path": "./Bass/110BPM/Liverpool_110BPM_Ab_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "SolidSoulElectricBass_110BPM_Bb_3625",
+      "Path": "./Bass/110BPM/SolidSoulElectricBass_110BPM_Bb_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "110BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "FingerstyleBass_110BPM_Bb_1564",
+      "Path": "./Bass/110BPM/FingerstyleBass_110BPM_Bb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "FingerstyleBass_100BPM_F#_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_F#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "SolidSoulElectricBass_100BPM_F#_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_F#_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Liverpool_100BPM_C#_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_C#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Liverpool_100BPM_Eb_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_Eb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Liverpool_100BPM_B_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_B_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Liverpool_100BPM_C_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_C_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "FingerstyleBass_100BPM_G_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_G_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "FingerstyleBass_100BPM_F_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_F_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "SolidSoulElectricBass_100BPM_A_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_A_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Liverpool_100BPM_E_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_E_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Liverpool_100BPM_D_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_D_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "FingerstyleBass_100BPM_A_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_A_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "SolidSoulElectricBass_100BPM_G_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_G_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "SolidSoulElectricBass_100BPM_F_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_F_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "SolidSoulElectricBass_100BPM_Ab_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_Ab_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "FingerstyleBass_100BPM_Ab_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_Ab_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {},
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Liverpool_100BPM_Bb_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_Bb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Liverpool_100BPM_A_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_A_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "FingerstyleBass_100BPM_Bb_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_Bb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "SolidSoulElectricBass_100BPM_Bb_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_Bb_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "FingerstyleBass_100BPM_D_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_D_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "FingerstyleBass_100BPM_E_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_E_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "SolidSoulElectricBass_100BPM_C_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_C_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "SolidSoulElectricBass_100BPM_B_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_B_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Liverpool_100BPM_Ab_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_Ab_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Liverpool_100BPM_F#_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_F#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "FingerstyleBass_100BPM_C#_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_C#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "SolidSoulElectricBass_100BPM_C#_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_C#_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Liverpool_100BPM_F_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_F_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Liverpool_100BPM_G_1251",
+      "Path": "./Bass/100BPM/Liverpool_100BPM_G_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "FingerstyleBass_100BPM_Eb_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_Eb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "SolidSoulElectricBass_100BPM_Eb_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_Eb_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "FingerstyleBass_100BPM_C_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_C_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "FingerstyleBass_100BPM_B_1564",
+      "Path": "./Bass/100BPM/FingerstyleBass_100BPM_B_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "SolidSoulElectricBass_100BPM_D_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_D_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "100BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "SolidSoulElectricBass_100BPM_E_3625",
+      "Path": "./Bass/100BPM/SolidSoulElectricBass_100BPM_E_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Liverpool_90BPM_Bb_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_Bb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Liverpool_90BPM_F_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_F_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Liverpool_90BPM_G_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_G_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "BrightSynthBrass_90BPM_D_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_D_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "BrightSynthBrass_90BPM_E_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_E_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "BrightSynthBrass_90BPM_Ab_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_Ab_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "90sSolidSynthBass_90BPM_Bb_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_Bb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "90sSolidSynthBass_90BPM_D_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_D_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "90sSolidSynthBass_90BPM_E_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_E_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "E",
+      "Name": "SolidSoulElectricBass_90BPM_E_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_E_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "D",
+      "Name": "SolidSoulElectricBass_90BPM_D_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_D_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F#",
+      "Name": "SolidSoulElectricBass_90BPM_F#_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_F#_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "BrightSynthBrass_90BPM_C_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_C_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "BrightSynthBrass_90BPM_B_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_B_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "90sSolidSynthBass_90BPM_C_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_C_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "90sSolidSynthBass_90BPM_B_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_B_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "90sSolidSynthBass_90BPM_C#_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_C#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "90sSolidSynthBass_90BPM_Eb_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_Eb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "B",
+      "Name": "SolidSoulElectricBass_90BPM_B_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_B_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C",
+      "Name": "SolidSoulElectricBass_90BPM_C_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_C_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Liverpool_90BPM_C#_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_C#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Liverpool_90BPM_Eb_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_Eb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Ab",
+      "Name": "SolidSoulElectricBass_90BPM_Ab_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_Ab_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Liverpool_90BPM_A_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_A_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "BrightSynthBrass_90BPM_F#_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_F#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Liverpool_90BPM_F#_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_F#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "90sSolidSynthBass_90BPM_G_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_G_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "90sSolidSynthBass_90BPM_F_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_F_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "F",
+      "Name": "SolidSoulElectricBass_90BPM_F_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_F_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "G",
+      "Name": "SolidSoulElectricBass_90BPM_G_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_G_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "BrightSynthBrass_90BPM_Eb_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_Eb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "BrightSynthBrass_90BPM_G_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_G_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "BrightSynthBrass_90BPM_F_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_F_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "BrightSynthBrass_90BPM_C#_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_C#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Liverpool_90BPM_E_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_E_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Liverpool_90BPM_D_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_D_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "90sSolidSynthBass_90BPM_F#_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_F#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Bb",
+      "Name": "SolidSoulElectricBass_90BPM_Bb_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_Bb_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Liverpool_90BPM_B_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_B_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Liverpool_90BPM_C_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_C_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Liverpool_90BPM_Ab_1251",
+      "Path": "./Bass/90BPM/Liverpool_90BPM_Ab_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "Eb",
+      "Name": "SolidSoulElectricBass_90BPM_Eb_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_Eb_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "C#",
+      "Name": "SolidSoulElectricBass_90BPM_C#_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_C#_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "90sSolidSynthBass_90BPM_A_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_A_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "3625",
+      "Key": "A",
+      "Name": "SolidSoulElectricBass_90BPM_A_3625",
+      "Path": "./Bass/90BPM/SolidSoulElectricBass_90BPM_A_3625.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "BrightSynthBrass_90BPM_A_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_A_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "90sSolidSynthBass_90BPM_Ab_1564",
+      "Path": "./Bass/90BPM/90sSolidSynthBass_90BPM_Ab_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "90BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "BrightSynthBrass_90BPM_Bb_1564",
+      "Path": "./Bass/90BPM/BrightSynthBrass_90BPM_Bb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "C#",
+      "Name": "Liverpool_80BPM_C#_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_C#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Eb",
+      "Name": "Liverpool_80BPM_Eb_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_Eb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "BrightSynthBrass_80BPM_D_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_D_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "BrightSynthBrass_80BPM_E_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_E_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "BrightSynthBrass_80BPM_F#_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_F#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "F",
+      "Name": "Liverpool_80BPM_F_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_F_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "G",
+      "Name": "Liverpool_80BPM_G_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_G_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "A",
+      "Name": "Liverpool_80BPM_A_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_A_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "BrightSynthBrass_80BPM_Ab_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_Ab_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Bb",
+      "Name": "Liverpool_80BPM_Bb_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_Bb_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {},
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "BrightSynthBrass_80BPM_C_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_C_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "BrightSynthBrass_80BPM_B_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_B_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "BrightSynthBrass_80BPM_Bb_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_Bb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "E",
+      "Name": "Liverpool_80BPM_E_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_E_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "D",
+      "Name": "Liverpool_80BPM_D_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_D_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "BrightSynthBrass_80BPM_G_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_G_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "BrightSynthBrass_80BPM_F_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_F_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "Ab",
+      "Name": "Liverpool_80BPM_Ab_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_Ab_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "BrightSynthBrass_80BPM_A_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_A_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "F#",
+      "Name": "Liverpool_80BPM_F#_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_F#_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "BrightSynthBrass_80BPM_Eb_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_Eb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "BrightSynthBrass_80BPM_C#_1564",
+      "Path": "./Bass/80BPM/BrightSynthBrass_80BPM_C#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "B",
+      "Name": "Liverpool_80BPM_B_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_B_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "80BPM",
+      "Chord Progression": "1251",
+      "Key": "C",
+      "Name": "Liverpool_80BPM_C_1251",
+      "Path": "./Bass/80BPM/Liverpool_80BPM_C_1251.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F#",
+      "Name": "FingerstyleBass_70BPM_F#_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_F#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "D",
+      "Name": "FingerstyleBass_70BPM_D_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_D_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "B",
+      "Name": "FingerstyleBass_70BPM_B_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_B_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C",
+      "Name": "FingerstyleBass_70BPM_C_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_C_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Ab",
+      "Name": "FingerstyleBass_70BPM_Ab_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_Ab_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {},
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "E",
+      "Name": "FingestyleBass_70BPM_E_1564",
+      "Path": "./Bass/70BPM/FingestyleBass_70BPM_E_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "F",
+      "Name": "FingerstyleBass_70BPM_F_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_F_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "G",
+      "Name": "FingerstyleBass_70BPM_G_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_G_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Bb",
+      "Name": "FingerstyleBass_70BPM_Bb_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_Bb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "C#",
+      "Name": "FingerstyleBass_70BPM_C#_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_C#_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "Eb",
+      "Name": "FingerstyleBass_70BPM_Eb_1564",
+      "Path": "./Bass/70BPM/Bass/70BPMFingerstyleBass_70BPM_Eb_1564.mp3",
+      "SoundType": "Bass"
+    },
+    {
+      "BPM": "70BPM",
+      "Chord Progression": "1564",
+      "Key": "A",
+      "Name": "FingerstyleBass_70BPM_A_1564",
+      "Path": "./Bass/70BPM/FingerstyleBass_70BPM_A_1564.mp3",
+      "SoundType": "Bass"
+    }
+  ]
+}
