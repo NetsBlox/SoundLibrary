@@ -120,13 +120,6 @@
       "Name": "Liverpool",
       "Path": "./Bass/Liverpool_100BPM_Eb_1251.mp3"
     },
-    {},
-    {
-      "netsbloxSoundLibrary": [
-        {},
-        {}
-      ]
-    },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
@@ -175,7 +168,6 @@
       "Name": "Liverpool",
       "Path": "./Bass/Liverpool_100BPM_C_1251.mp3"
     },
-    {},
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
@@ -1049,7 +1041,6 @@
       "Name": "SolidSoulElectricBass",
       "Path": "./Bass/SolidSoulElectricBass_90BPM_Eb_3625.mp3"
     },
-    {},
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
