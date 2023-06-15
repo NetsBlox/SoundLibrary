@@ -144,7 +144,6 @@
       "Name": "AcousticGuitar",
       "Path": "./AcousticGuitar_90BPM_F#_1564.mp3"
     },
-    {},
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
@@ -337,7 +336,6 @@
       "Name": "BoardingArea",
       "Path": "./BoardingArea_70BPM_C#_1564.mp3"
     },
-    {},
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
@@ -922,7 +920,6 @@
       "Name": "DreamSinesPad",
       "Path": "./DreamSinesPad_90BPM_Eb_3625.mp3"
     },
-    {},
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
@@ -2131,7 +2128,6 @@
       "Name": "ClassicSuitcasePiano",
       "Path": "./ClassicSuitcasePiano_110BPM_C#_1564.mp3"
     },
-    {},
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
@@ -2388,7 +2384,6 @@
       "Name": "Steinway",
       "Path": "./Steinway_70BPM_F#_1251.mp3"
     },
-    {},
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
@@ -3429,7 +3424,6 @@
       "Name": "JazzOrgan",
       "Path": "./JazzOrgan_90BPM_C#_1251.mp3"
     },
-    {},
     {
       "BPM": "80BPM",
       "ChordProgression": "1251",
@@ -3965,13 +3959,6 @@
       "Key": "Eb",
       "Name": "Liverpool",
       "Path": "./Liverpool_100BPM_Eb_1251.mp3"
-    },
-    {},
-    {
-      "netsbloxSoundLibrary": [
-        {},
-        {}
-      ]
     },
     {
       "BPM": "80BPM",
@@ -4559,7 +4546,6 @@
       "Name": "Liverpool",
       "Path": "./Liverpool_100BPM_A_1251.mp3"
     },
-    {},
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
@@ -4777,17 +4763,6 @@
       "Path": "./90sSolidSynthBass_90BPM_F#_1564.mp3"
     },
     {
-      "netsbloxSoundLibrary": [
-        {}
-      ]
-    },
-    {},
-    {
-      "netsbloxSoundLibrary": [
-        {}
-      ]
-    },
-    {
       "BPM": "100BPM",
       "ChordProgression": "1251",
       "Instrument": "BASS",
@@ -4997,11 +4972,6 @@
       "Path": "./SolidSoulElectricBass_100BPM_C#_3625.mp3"
     },
     {
-      "netsbloxSoundLibrary": [
-        {}
-      ]
-    },
-    {
       "BPM": "100BPM",
       "ChordProgression": "1251",
       "Instrument": "BASS",
@@ -5032,12 +5002,6 @@
       "Key": "A",
       "Name": "BrightSynthBrass",
       "Path": "./BrightSynthBrass_90BPM_A_1564.mp3"
-    },
-    {
-      "netsbloxSoundLibrary": [
-        {},
-        {}
-      ]
     },
     {
       "BPM": "100BPM",
