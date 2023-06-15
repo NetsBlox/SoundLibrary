@@ -12,7 +12,8 @@ def path_hierarchy(path):
     hierarchy = {}
     if(len(parts) > 2):
         hierarchy = {
-            'Name': parts[0],
+            'soundName': fileName.replace('.mp3', ''),
+            'InstrumentName': parts[0],
             'Instrument': 'SYNTH',
             'BPM': parts[1],
             'Key': parts[2],

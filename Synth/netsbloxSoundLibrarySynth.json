@@ -4,1825 +4,2054 @@
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "Eb",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_Eb_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_Eb_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_Eb_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "C#",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_C#_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_C#_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_C#_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "F#",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_F#_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_F#_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_F#_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "C",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_C_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_C_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_C_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "B",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_B_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_B_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_B_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "F",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_F_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_F_1564.mp3",
+      "soundName": "Saxophone_80BPM_F_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "G",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_G_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_G_1564.mp3",
+      "soundName": "Saxophone_80BPM_G_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "F#",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_F#_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_F#_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_F#_3625"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "A",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_A_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_A_1564.mp3",
+      "soundName": "BoardingArea_70BPM_A_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "F#",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_F#_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_F#_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_F#_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "Ab",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_Ab_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_Ab_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_Ab_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "G",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_G_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_G_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_G_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "F",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_F_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_F_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_F_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "C#",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_C#_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_C#_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_C#_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "Eb",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_Eb_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_Eb_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_Eb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "C",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_C_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_C_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_C_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "B",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_B_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_B_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_B_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "F#",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_F#_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_F#_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_F#_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "E",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_E_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_E_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_E_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "D",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_D_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_D_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_D_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "Bb",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_Bb_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_Bb_1564.mp3",
+      "soundName": "SunriseChords_110BPM_Bb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "A",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_A_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_A_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_A_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "Eb",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_Eb_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_Eb_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_Eb_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "E",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_E_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_E_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_E_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "D",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_D_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_D_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_D_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "C#",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_C#_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_C#_1564.mp3",
+      "soundName": "SunriseChords_100BPM_C#_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "A",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_A_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_A_1564.mp3",
+      "soundName": "SunriseChords_100BPM_A_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "F#",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_F#_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_F#_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_F#_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "Bb",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_Bb_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_Bb_1564.mp3",
+      "soundName": "Saxophone_80BPM_Bb_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "D",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_D_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_D_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_D_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "E",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_E_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_E_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_E_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "C#",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_C#_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_C#_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_C#_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "A",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_A_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_A_1564.mp3",
+      "soundName": "BoardingArea_80BPM_A_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "Eb",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_Eb_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_Eb_1564.mp3",
+      "soundName": "SunriseChords_100BPM_Eb_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "Bb",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_Bb_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_Bb_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_Bb_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "F",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_F_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_F_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_F_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "G",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_G_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_G_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_G_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "Ab",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_Ab_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_Ab_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_Ab_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "A",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_A_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_A_1564.mp3",
+      "soundName": "SunriseChords_110BPM_A_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "F",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_F_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_F_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_F_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "G",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_G_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_G_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_G_3625"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "C#",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_C#_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_C#_1564.mp3",
+      "soundName": "BoardingArea_70BPM_C#_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "Ab",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_Ab_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_Ab_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_Ab_3625"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "Eb",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_Eb_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_Eb_1564.mp3",
+      "soundName": "BoardingArea_70BPM_Eb_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "E",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_E_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_E_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_E_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "D",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_D_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_D_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_D_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "Ab",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_Ab_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_Ab_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_Ab_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "G",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_G_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_G_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_G_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "F",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_F_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_F_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_F_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "Eb",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_Eb_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_Eb_1564.mp3",
+      "soundName": "BoardingArea_80BPM_Eb_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "Ab",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_Ab_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_Ab_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_Ab_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "D",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_D_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_D_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_D_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "E",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_E_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_E_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_E_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "C",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_C_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_C_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_C_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "B",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_B_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_B_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_B_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "A",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_A_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_A_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_A_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "C#",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_C#_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_C#_1564.mp3",
+      "soundName": "BoardingArea_80BPM_C#_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "G",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_G_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_G_1564.mp3",
+      "soundName": "SunriseChords_110BPM_G_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "F",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_F_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_F_1564.mp3",
+      "soundName": "SunriseChords_110BPM_F_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "Ab",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_Ab_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_Ab_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_Ab_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "F#",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_F#_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_F#_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_F#_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "A",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_A_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_A_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_A_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "Ab",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_Ab_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_Ab_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_Ab_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "Bb",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_Bb_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_Bb_1564.mp3",
+      "soundName": "BoardingArea_70BPM_Bb_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "Ab",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_Ab_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_Ab_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_Ab_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "Ab",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_Ab_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_Ab_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_Ab_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "A",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_A_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_A_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_A_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "B",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_B_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_B_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_B_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "C",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_C_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_C_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_C_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "Ab",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_Ab_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_Ab_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_Ab_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "C",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_C_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_C_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_C_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "B",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_B_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_B_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_B_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "F",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_F_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_F_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_F_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "G",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_G_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_G_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_G_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "D",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_D_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_D_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_D_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "E",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_E_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_E_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_E_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "Bb",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_Bb_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_Bb_1564.mp3",
+      "soundName": "BoardingArea_80BPM_Bb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "Bb",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_Bb_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_Bb_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_Bb_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "F#",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_F#_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_F#_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_F#_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "D",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_D_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_D_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_D_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "E",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_E_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_E_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_E_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "A",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_A_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_A_1564.mp3",
+      "soundName": "Saxophone_80BPM_A_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "G",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_G_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_G_1564.mp3",
+      "soundName": "BoardingArea_70BPM_G_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "F",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_F_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_F_1564.mp3",
+      "soundName": "BoardingArea_70BPM_F_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "F#",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_F#_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_F#_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_F#_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "F#",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_F#_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_F#_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_F#_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "A",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_A_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_A_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_A_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "D",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_D_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_D_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_D_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "E",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_E_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_E_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_E_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "Bb",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_Bb_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_Bb_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_Bb_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "Eb",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_Eb_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_Eb_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_Eb_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "B",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_B_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_B_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_B_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "C#",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_C#_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_C#_1564.mp3",
+      "soundName": "SunriseChords_110BPM_C#_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "C",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_C_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_C_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_C_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "B",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_B_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_B_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_B_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "C",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_C_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_C_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_C_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "Bb",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_Bb_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_Bb_1564.mp3",
+      "soundName": "SunriseChords_100BPM_Bb_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "Eb",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_Eb_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_Eb_1564.mp3",
+      "soundName": "Saxophone_80BPM_Eb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "G",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_G_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_G_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_G_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "F",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_F_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_F_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_F_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "Bb",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_Bb_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_Bb_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_Bb_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "F",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_F_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_F_1564.mp3",
+      "soundName": "BoardingArea_80BPM_F_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "G",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_G_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_G_1564.mp3",
+      "soundName": "BoardingArea_80BPM_G_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "G",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_G_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_G_1564.mp3",
+      "soundName": "SunriseChords_100BPM_G_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "F",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_F_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_F_1564.mp3",
+      "soundName": "SunriseChords_100BPM_F_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "C#",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_C#_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_C#_1564.mp3",
+      "soundName": "Saxophone_80BPM_C#_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "C",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_C_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_C_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_C_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "B",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_B_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_B_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_B_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "F#",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_F#_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_F#_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_F#_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "A",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_A_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_A_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_A_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "C#",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_C#_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_C#_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_C#_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "Eb",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_Eb_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_Eb_1564.mp3",
+      "soundName": "SunriseChords_110BPM_Eb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "C#",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_C#_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_C#_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_C#_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "Bb",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_Bb_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_Bb_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_Bb_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "Eb",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_Eb_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_Eb_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_Eb_3625"
     },
+    {},
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "G",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_G_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_G_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_G_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "F",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_F_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_F_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_F_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "Bb",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_Bb_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_Bb_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_Bb_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "C#",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_C#_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_C#_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_C#_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "A",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_A_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_A_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_A_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "B",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_B_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_B_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_B_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "C",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_C_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_C_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_C_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "Ab",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_Ab_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_Ab_1564.mp3",
+      "soundName": "BoardingArea_70BPM_Ab_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "Eb",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_Eb_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_Eb_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_Eb_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "Bb",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_Bb_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_Bb_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_Bb_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "Bb",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_Bb_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_Bb_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_Bb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "Eb",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_Eb_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_Eb_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_Eb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "C#",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_C#_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_C#_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_C#_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "Ab",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_Ab_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_Ab_1564.mp3",
+      "soundName": "BoardingArea_80BPM_Ab_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "C",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_C_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_C_1564.mp3",
+      "soundName": "SunriseChords_110BPM_C_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "B",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_B_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_B_1564.mp3",
+      "soundName": "SunriseChords_110BPM_B_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "F#",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_F#_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_F#_1564.mp3",
+      "soundName": "SunriseChords_110BPM_F#_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "E",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_E_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_E_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_E_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "D",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_D_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_D_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_D_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "Eb",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_Eb_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_Eb_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_Eb_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "F#",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_F#_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_F#_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_F#_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "C#",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_C#_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_C#_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_C#_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "F",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_F_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_F_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_F_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "G",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_G_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_G_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_G_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "F#",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_F#_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_F#_1564.mp3",
+      "soundName": "Saxophone_80BPM_F#_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "Bb",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_Bb_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_Bb_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_Bb_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "D",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_D_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_D_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_D_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "E",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_E_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_E_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_E_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "F",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_F_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_F_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_F_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "G",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_G_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_G_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_G_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "Ab",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_Ab_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_Ab_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_Ab_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "C",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_C_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_C_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_C_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "B",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_B_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_B_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_B_3625"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "C#",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_C#_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_C#_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_C#_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "F",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_F_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_F_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_F_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "G",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_G_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_G_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_G_3625"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "G",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_G_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_G_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_G_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "F",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_F_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_F_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_F_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "C",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_C_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_C_1564.mp3",
+      "soundName": "SunriseChords_100BPM_C_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "Eb",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_Eb_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_Eb_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_Eb_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "B",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_B_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_B_1564.mp3",
+      "soundName": "SunriseChords_100BPM_B_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "B",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_B_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_B_1564.mp3",
+      "soundName": "BoardingArea_80BPM_B_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "C",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_C_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_C_1564.mp3",
+      "soundName": "BoardingArea_80BPM_C_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "Ab",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_Ab_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_Ab_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_Ab_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "E",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_E_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_E_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_E_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "D",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_D_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_D_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_D_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "A",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_A_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_A_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_A_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "E",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_E_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_E_1564.mp3",
+      "soundName": "Saxophone_80BPM_E_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "D",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_D_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_D_1564.mp3",
+      "soundName": "Saxophone_80BPM_D_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "Ab",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_Ab_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_Ab_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_Ab_3625"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "C",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_C_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_C_1564.mp3",
+      "soundName": "BoardingArea_70BPM_C_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "B",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_B_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_B_1564.mp3",
+      "soundName": "BoardingArea_70BPM_B_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "Ab",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_Ab_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_Ab_1564.mp3",
+      "soundName": "SunriseChords_100BPM_Ab_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "D",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_D_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_D_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_D_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "E",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_E_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_E_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_E_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "A",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_A_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_A_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_A_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "A",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_A_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_A_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_A_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "F#",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_F#_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_F#_1564.mp3",
+      "soundName": "BoardingArea_70BPM_F#_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "A",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_A_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_A_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_A_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "D",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_D_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_D_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_D_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "E",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_E_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_E_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_E_3625"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "Bb",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_Bb_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_Bb_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_Bb_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "E",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_E_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_E_1564.mp3",
+      "soundName": "BoardingArea_80BPM_E_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "D",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_D_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_D_1564.mp3",
+      "soundName": "BoardingArea_80BPM_D_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "FutureFeelsBrass",
       "Key": "A",
-      "Name": "FutureFeelsBrass",
-      "Path": "./Synth/FutureFeelsBrass_70BPM_A_1564.mp3"
+      "Path": "./Synth/FutureFeelsBrass_70BPM_A_1564.mp3",
+      "soundName": "FutureFeelsBrass_70BPM_A_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "D",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_D_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_D_1564.mp3",
+      "soundName": "SunriseChords_100BPM_D_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "E",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_E_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_E_1564.mp3",
+      "soundName": "SunriseChords_100BPM_E_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "B",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_B_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_B_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_B_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "C",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_C_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_C_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_C_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "G",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_G_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_G_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_G_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "F",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_F_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_F_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_F_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "B",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_B_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_B_1564.mp3",
+      "soundName": "Saxophone_80BPM_B_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "C",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_C_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_C_1564.mp3",
+      "soundName": "Saxophone_80BPM_C_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "Ab",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_Ab_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_Ab_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_Ab_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "Saxophone",
       "Key": "Ab",
-      "Name": "Saxophone",
-      "Path": "./Synth/Saxophone_80BPM_Ab_1564.mp3"
+      "Path": "./Synth/Saxophone_80BPM_Ab_1564.mp3",
+      "soundName": "Saxophone_80BPM_Ab_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "D",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_D_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_D_1564.mp3",
+      "soundName": "BoardingArea_70BPM_D_1564"
     },
     {
       "BPM": "70BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "E",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_70BPM_E_1564.mp3"
+      "Path": "./Synth/BoardingArea_70BPM_E_1564.mp3",
+      "soundName": "BoardingArea_70BPM_E_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "C",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_C_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_C_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_C_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BoardingArea",
       "Key": "F#",
-      "Name": "BoardingArea",
-      "Path": "./Synth/BoardingArea_80BPM_F#_1564.mp3"
+      "Path": "./Synth/BoardingArea_80BPM_F#_1564.mp3",
+      "soundName": "BoardingArea_80BPM_F#_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "B",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_B_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_B_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_B_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "Ab",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_Ab_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_Ab_1564.mp3",
+      "soundName": "SunriseChords_110BPM_Ab_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "G",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_G_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_G_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_G_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "F",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_F_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_F_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_F_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "Eb",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_Eb_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_Eb_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_Eb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "Bb",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_Bb_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_Bb_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_Bb_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "C#",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_C#_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_C#_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_C#_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "A",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_A_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_A_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_A_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "BrightDigitalChords",
       "Key": "F#",
-      "Name": "BrightDigitalChords",
-      "Path": "./Synth/BrightDigitalChords_90BPM_F#_1564.mp3"
+      "Path": "./Synth/BrightDigitalChords_90BPM_F#_1564.mp3",
+      "soundName": "BrightDigitalChords_90BPM_F#_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "C#",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_C#_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_C#_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_C#_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "Bb",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_100BPM_Bb_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_100BPM_Bb_3625.mp3",
+      "soundName": "DreamSinesPad_100BPM_Bb_3625"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "Eb",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_Eb_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_Eb_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_Eb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "E",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_E_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_E_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_E_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "CloudyPluckedSynth",
       "Key": "D",
-      "Name": "CloudyPluckedSynth",
-      "Path": "./Synth/CloudyPluckedSynth_90BPM_D_1564.mp3"
+      "Path": "./Synth/CloudyPluckedSynth_90BPM_D_1564.mp3",
+      "soundName": "CloudyPluckedSynth_90BPM_D_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "DriftingPulsations",
       "Key": "Eb",
-      "Name": "DriftingPulsations",
-      "Path": "./Synth/DriftingPulsations_80BPM_Eb_1564.mp3"
+      "Path": "./Synth/DriftingPulsations_80BPM_Eb_1564.mp3",
+      "soundName": "DriftingPulsations_80BPM_Eb_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "AcousticGuitar",
       "Key": "C#",
-      "Name": "AcousticGuitar",
-      "Path": "./Synth/AcousticGuitar_90BPM_C#_1564.mp3"
+      "Path": "./Synth/AcousticGuitar_90BPM_C#_1564.mp3",
+      "soundName": "AcousticGuitar_90BPM_C#_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "F#",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_90BPM_F#_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_90BPM_F#_3625.mp3",
+      "soundName": "PulsatingWaves_90BPM_F#_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "G",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_G_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_G_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_G_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "F",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_F_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_F_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_F_1564"
     },
     {
       "BPM": "90BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "Bb",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_90BPM_Bb_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_90BPM_Bb_3625.mp3",
+      "soundName": "DreamSinesPad_90BPM_Bb_3625"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "C#",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_C#_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_C#_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_C#_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "Eb",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_Eb_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_Eb_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_Eb_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "D",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_D_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_D_1564.mp3",
+      "soundName": "SunriseChords_110BPM_D_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "E",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_110BPM_E_1564.mp3"
+      "Path": "./Synth/SunriseChords_110BPM_E_1564.mp3",
+      "soundName": "SunriseChords_110BPM_E_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "SunriseChords",
       "Key": "F#",
-      "Name": "SunriseChords",
-      "Path": "./Synth/SunriseChords_100BPM_F#_1564.mp3"
+      "Path": "./Synth/SunriseChords_100BPM_F#_1564.mp3",
+      "soundName": "SunriseChords_100BPM_F#_1564"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "Eb",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_Eb_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_Eb_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_Eb_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "B",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_B_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_B_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_B_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "DreamSinesPad",
       "Key": "C",
-      "Name": "DreamSinesPad",
-      "Path": "./Synth/DreamSinesPad_110BPM_C_3625.mp3"
+      "Path": "./Synth/DreamSinesPad_110BPM_C_3625.mp3",
+      "soundName": "DreamSinesPad_110BPM_C_3625"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "Bb",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_110BPM_Bb_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_110BPM_Bb_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_110BPM_Bb_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "C",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_C_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_C_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_C_1564"
     },
     {
       "BPM": "80BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "80sWaveBells",
       "Key": "B",
-      "Name": "80sWaveBells",
-      "Path": "./Synth/80sWaveBells_80BPM_B_1564.mp3"
+      "Path": "./Synth/80sWaveBells_80BPM_B_1564.mp3",
+      "soundName": "80sWaveBells_80BPM_B_1564"
     },
     {
       "BPM": "110BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "F#",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_110BPM_F#_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_110BPM_F#_3625.mp3",
+      "soundName": "PulsatingWaves_110BPM_F#_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "3625",
       "Instrument": "SYNTH",
+      "InstrumentName": "PulsatingWaves",
       "Key": "A",
-      "Name": "PulsatingWaves",
-      "Path": "./Synth/PulsatingWaves_100BPM_A_3625.mp3"
+      "Path": "./Synth/PulsatingWaves_100BPM_A_3625.mp3",
+      "soundName": "PulsatingWaves_100BPM_A_3625"
     },
     {
       "BPM": "100BPM",
       "ChordProgression": "1564",
       "Instrument": "SYNTH",
+      "InstrumentName": "GhostlyReversedOrgan",
       "Key": "C#",
-      "Name": "GhostlyReversedOrgan",
-      "Path": "./Synth/GhostlyReversedOrgan_100BPM_C#_1564.mp3"
+      "Path": "./Synth/GhostlyReversedOrgan_100BPM_C#_1564.mp3",
+      "soundName": "GhostlyReversedOrgan_100BPM_C#_1564"
     }
   ]
 }
