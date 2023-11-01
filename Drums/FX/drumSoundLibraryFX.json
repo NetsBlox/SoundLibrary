@@ -1,0 +1,22 @@
+{
+  "drumSoundLibrary": [
+    {
+      "Instrument": "FX",
+      "Path": "./FX/Jazztastic_Ride_Big_Condenser_Swell_FX.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Jazztastic_Ride_Big_Condenser_Swell_FX"
+    },
+    {
+      "Instrument": "FX",
+      "Path": "./FX/DSSxDP_Lame_Gazelle_Wild_Spring_FX_Hit.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Lame_Gazelle_Wild_Spring_FX_Hit"
+    },
+    {
+      "Instrument": "FX",
+      "Path": "./FX/DSSxDP_Seek_Destroy_That_Got_Out_Of_Hand_Fast_FX.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Seek_Destroy_That_Got_Out_Of_Hand_Fast_FX"
+    }
+  ]
+}

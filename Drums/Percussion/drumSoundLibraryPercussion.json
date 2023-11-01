@@ -1,0 +1,16 @@
+{
+  "drumSoundLibrary": [
+    {
+      "Instrument": "Percussion",
+      "Path": "./Percussion/DSSxDP_808_Cowbell.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_808_Cowbell"
+    },
+    {
+      "Instrument": "Percussion",
+      "Path": "./Percussion/DSSxDP_Gazelle_Shake.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Gazelle_Shake"
+    }
+  ]
+}

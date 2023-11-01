@@ -1,0 +1,335 @@
+{
+  "drumSoundLibrary": [
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_70s_Kick_6.mp3",
+      "packName": "US",
+      "soundName": "US_22_70s_Kick_6"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_8.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_8"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_9.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_9"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_70s_Kick_5.mp3",
+      "packName": "US",
+      "soundName": "US_22_70s_Kick_5"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_70s_Kick_4.mp3",
+      "packName": "US",
+      "soundName": "US_22_70s_Kick_4"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_70s_Kick_1.mp3",
+      "packName": "US",
+      "soundName": "US_22_70s_Kick_1"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_70s_Kick_3.mp3",
+      "packName": "US",
+      "soundName": "US_22_70s_Kick_3"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_70s_Kick_2.mp3",
+      "packName": "US",
+      "soundName": "US_22_70s_Kick_2"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_70s_Kick_2.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_70s_Kick_2"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_70s_Kick_3.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_70s_Kick_3"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_9.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_9"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_70s_Kick_1.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_70s_Kick_1"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_10.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_10"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_8.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_8"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_70s_Kick_4.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_70s_Kick_4"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_70s_Kick_5.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_70s_Kick_5"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_8.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_8"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_10.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_10"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_9.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_9"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_70s_Kick_6.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_70s_Kick_6"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_3.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_3"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_4.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_4"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_5.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_5"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_2.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_2"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_7.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_7"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_6.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_6"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_1.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_1"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_5.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_5"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_2.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_2"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_3.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_3"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_4.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_4"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_6.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_6"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/PeaceTreaty_22_Kick_1.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_22_Kick_1"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/UK_22_Kick_7.mp3",
+      "packName": "UK",
+      "soundName": "UK_22_Kick_7"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_1.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_1"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_2.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_2"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_3.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_3"
+    },
+    {},
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_7.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_7"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_6.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_6"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_4.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_4"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_10.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_10"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/US_22_Kick_5.mp3",
+      "packName": "US",
+      "soundName": "US_22_Kick_5"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/DSSxDP_Weird_Hip_Hop_Magic_Kick.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Weird_Hip_Hop_Magic_Kick"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/Charmer_Kick_7.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Charmer_Kick_7"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/Grunge_Kick_1.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Grunge_Kick_1"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/Grunge_Kick_3.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Grunge_Kick_3"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/CASSETTE_KICK_+2_DESTROY.mp3",
+      "packName": "DSSxDP",
+      "soundName": "CASSETTE_KICK_+2_DESTROY"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/22_70s_Kick_5_UK.mp3",
+      "packName": "DSSxDP",
+      "soundName": "22_70s_Kick_5_UK"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/Grunge_Kick_2.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Grunge_Kick_2"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/Grunge_Kick_6.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Grunge_Kick_6"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/Grunge_Kick_5.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Grunge_Kick_5"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/Grunge_Kick_4.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Grunge_Kick_4"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/Grumpy_Kick_9.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Grumpy_Kick_9"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/DSSxDP_Afro_Linn_Unhappy_Kick.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Afro_Linn_Unhappy_Kick"
+    },
+    {
+      "Instrument": "KICK",
+      "Path": "./Kicks/22_Kick_8_Peace_Treaty.mp3",
+      "packName": "DSSxDP",
+      "soundName": "22_Kick_8_Peace_Treaty"
+    }
+  ]
+}

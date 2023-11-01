@@ -1,0 +1,28 @@
+{
+  "drumSoundLibrary": [
+    {
+      "Instrument": "CYMBAL",
+      "Path": "./Cymbals/DSSxDP_Wonky_Machines_Ride_Dark_Sizzle_2.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Wonky_Machines_Ride_Dark_Sizzle_2"
+    },
+    {
+      "Instrument": "CYMBAL",
+      "Path": "./Cymbals/Medium_Crash_Big_Condenser_Hit.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Medium_Crash_Big_Condenser_Hit"
+    },
+    {
+      "Instrument": "CYMBAL",
+      "Path": "./Cymbals/China_Tight_Ribbon_4.mp3",
+      "packName": "DSSxDP",
+      "soundName": "China_Tight_Ribbon_4"
+    },
+    {
+      "Instrument": "CYMBAL",
+      "Path": "./Cymbals/FX_4_Tight_Condenser.mp3",
+      "packName": "DSSxDP",
+      "soundName": "FX_4_Tight_Condenser"
+    }
+  ]
+}

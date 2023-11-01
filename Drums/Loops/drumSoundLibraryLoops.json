@@ -1,0 +1,1330 @@
+{
+  "drumSoundLibrary": [
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Kick_and_Crash_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Kick_and_Crash_110bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_9_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_9_90bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_7_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_7_130bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_1_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_1_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_3_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_3_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_11_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_11_110bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_2_80bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_2_80bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_11_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_11_70bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_12_w_end_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_12_w_end_90bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_13_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_13_90bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_7_80bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_7_80bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_4_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_4_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_6_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_6_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_13_w_end_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_13_w_end_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_16_w_crash_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_16_w_crash_130bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_5_w_end_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_5_w_end_90bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_6_shuffle_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_6_shuffle_110bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_1_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_1_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_10_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_10_130bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_8_w_end_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_8_w_end_130bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_7_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_7_90bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_2_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_2_110bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_8_shuffle_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_8_shuffle_110bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_13_w_end_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_13_w_end_110bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_1_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_1_70bpm"
+    },
+    {},
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_13_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_13_130bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_4_80bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_4_80bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Crazy_Build_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Crazy_Build_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_2_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_2_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_15_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_15_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_5_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_5_110bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_2_80bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_2_80bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_8_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_8_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_5_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_5_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_1_w_end_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_1_w_end_110bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_10_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_10_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_3_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_3_130bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_1_80bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_1_80bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_10_w_end_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_10_w_end_90bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_14_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_14_110bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_2_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_2_90bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_8_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_8_90bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_4_w_end_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_4_w_end_110bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_15_w_end_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_15_w_end_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_2_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_2_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_5_w_end_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_5_w_end_70bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_10_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_10_70bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_3_80bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_3_80bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_15_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_15_110bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_2_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_2_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_5_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_5_130bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_12_w_fill_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_12_w_fill_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_7_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_7_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_5_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_5_110bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_2_80bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_2_80bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_6_80bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_6_80bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_2_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_2_110bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_12_w_end_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_12_w_end_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_14_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_14_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_1_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_1_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_7_shuffle_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_7_shuffle_110bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_5_80bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_5_80bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_6_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_6_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_4_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_4_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_12_w_end_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_12_w_end_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_11_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_11_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_11_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_11_70bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_13_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_13_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_9_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_9_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_16_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_16_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_7_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_7_130bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_3_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_3_90bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_2_w_end_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_2_w_end_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_1_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_1_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_1_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_1_130bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_2_w_end_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_2_w_end_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_1_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_1_70bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_3_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_3_90bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_9_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_9_130bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_11_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_11_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_13_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_13_70bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_9_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_9_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_8_shuffle_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_8_shuffle_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_14_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_14_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_3_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_3_110bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_5_w_end_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_5_w_end_70bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_2_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_2_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_2_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_2_130bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_4_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_4_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_14_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_14_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_3_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_3_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Fill_1_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Fill_1_110bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_1_80bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_1_80bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_9_shuffle_w_end_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_9_shuffle_w_end_110bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_15_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_15_110bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_5_80bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_5_80bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_4_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_4_70bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_6_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_6_90bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_16_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_16_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_1_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_1_130bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_6_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_6_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_7_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_7_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_1_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_1_130bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_1_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_1_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_3_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_3_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Kick_and_Crash_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Kick_and_Crash_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_16_w_crash_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_16_w_crash_130bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_6_80bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_6_80bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_3_80bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_3_80bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_6_shuffle_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_6_shuffle_110bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_2_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_2_70bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_8_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_8_90bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_11_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_11_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_4_w_end_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_4_w_end_110bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_15_w_end_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_15_w_end_70bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_10_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_10_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_12_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_12_70bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_10_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_10_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_12_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_12_70bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_1_80bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_1_80bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_10_w_end_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_10_w_end_90bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_10_w_end_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_10_w_end_110bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_2_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_2_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_8_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_8_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_10_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_10_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_1_w_end_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_1_w_end_110bpm"
+    },
+    {},
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_1_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_1_110bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_5_w_end_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_5_w_end_90bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_1_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_1_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_3_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_3_70bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Kick_and_Crash_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Kick_and_Crash_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_8_w_end_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_8_w_end_130bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_7_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_7_90bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Sexy_Flam_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Sexy_Flam_130bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_6_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_6_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_11_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_11_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_1_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_1_130bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_4_80bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_4_80bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_3_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_3_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Kick_and_Crash_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Kick_and_Crash_70bpm"
+    },
+    {},
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Build_1_80bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Build_1_80bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_3_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_3_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_14_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_14_110bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Fill_1_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Fill_1_110bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_7_80bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_7_80bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_14_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_14_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_4_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_4_130bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_6_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_6_70bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_4_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_4_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_2_70bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_2_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_7_shuffle_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_7_shuffle_110bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_13_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_13_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_10_w_end_110bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_10_w_end_110bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_3_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_3_70bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_3_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_3_110bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_1_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_1_90bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_2_80bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_2_80bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_12_w_end_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_12_w_end_90bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_9_shuffle_w_end_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_9_shuffle_w_end_110bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Build_2_110bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Build_2_110bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_11_90bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_11_90bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_13_70bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_13_70bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_12_w_fill_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_12_w_fill_130bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_9_90bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_9_90bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/UK_Loop_9_130bpm.mp3",
+      "packName": "UK",
+      "soundName": "UK_Loop_9_130bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/US_Loop_15_130bpm.mp3",
+      "packName": "US",
+      "soundName": "US_Loop_15_130bpm"
+    },
+    {
+      "BPM": "138bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/DSSxDP_North_Lancastrian_Rhythm_Ace_Loop_2_Money_Spring_138bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_North_Lancastrian_Rhythm_Ace_Loop_2_Money_Spring_138bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Loop_10_w_end_90bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Loop_10_w_end_90bpm"
+    },
+    {
+      "BPM": "120bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/DSSxDP_808_Conga_Vibe_Loop_120bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_808_Conga_Vibe_Loop_120bpm"
+    },
+    {
+      "BPM": "90bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Wonder_Ride_Big_Ribbon_4s_Wash_90bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Wonder_Ride_Big_Ribbon_4s_Wash_90bpm"
+    },
+    {
+      "BPM": "91bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/DSSxDP_Cassette_Rims_Delay_Verbed_Loop_Long_Tail_91bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Cassette_Rims_Delay_Verbed_Loop_Long_Tail_91bpm"
+    },
+    {
+      "BPM": "130bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Loop_12_w_fill_130bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Loop_12_w_fill_130bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Build_1_110bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Build_1_110bpm"
+    },
+    {
+      "BPM": "96pm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/DSSxDP_Seek_Destroy_SSxDP_Robot_DC30_Warp_96pm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Seek_Destroy_SSxDP_Robot_DC30_Warp_96pm"
+    },
+    {
+      "BPM": "120bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Dark_Hats_Tight_Ribbon_8s_Slushy_120bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Dark_Hats_Tight_Ribbon_8s_Slushy_120bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/The_International_Alt_Kit 3_110bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "The_International_Alt_Kit 3_110bpm"
+    },
+    {
+      "BPM": "96bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/DSSxDP_Lame_Gazelle_808_Trap_Hats_Pitch_Shift_Loop_96bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Lame_Gazelle_808_Trap_Hats_Pitch_Shift_Loop_96bpm"
+    },
+    {
+      "BPM": "100bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Epicness_Ride_Tight_Condenser_8s_100bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Epicness_Ride_Tight_Condenser_8s_100bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Hybrid_Hats_Tight_Condenser_8s_Closed_80bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Hybrid_Hats_Tight_Condenser_8s_Closed_80bpm"
+    },
+    {
+      "BPM": "114bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/DSSxDP_Spring_Dirt_Kick_Loop_114bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Spring_Dirt_Kick_Loop_114bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Prince_Of_Neon_Alt_Kit_8_80bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Prince_Of_Neon_Alt_Kit_8_80bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Loop_4_80bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Loop_4_80bpm"
+    },
+    {
+      "BPM": "160bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Prince_Of_Neon_5_160bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Prince_Of_Neon_5_160bpm"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Big_Boy_Hats_Big_Ribbon_16s_Closed_110bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Big_Boy_Hats_Big_Ribbon_16s_Closed_110bpm"
+    },
+    {
+      "BPM": "94bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/DSSxDP_Weird_Hip_Hop_Tape_Tom_Fill_2_Loop_94bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Weird_Hip_Hop_Tape_Tom_Fill_2_Loop_94bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Loop_7_70bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Loop_7_70bpm"
+    },
+    {
+      "BPM": "120bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Lame_Gazelle_Old_Kit_FX_12_120bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Lame_Gazelle_Old_Kit_FX_12_120bpm"
+    },
+    {
+      "BPM": "176bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/The_International_4_176bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "The_International_4_176bpm"
+    },
+    {
+      "BPM": "70bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/Lame_Gazelle_5_70bpm.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Lame_Gazelle_5_70bpm"
+    }
+  ]
+}

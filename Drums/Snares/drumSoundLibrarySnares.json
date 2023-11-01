@@ -1,0 +1,727 @@
+{
+  "drumSoundLibrary": [
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_8.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_8"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_6.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_6"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_1.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_1"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_8.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_8"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_11.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_11"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_10.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_10"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_9.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_9"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_7.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_7"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_9.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_9"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_2.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_2"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_5.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_5"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_Flam.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_4.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_4"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_3.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_3"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_7.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_7"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_8.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_8"
+    },
+    {},
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_10.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_10"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_11.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_11"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_9.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_9"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_1.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_1"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_6.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_6"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_3.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_3"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_4.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_4"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_Flam.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_5.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_5"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_2.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_2"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_10.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_10"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_9.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_9"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_9.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_9"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_8.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_8"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_8.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_8"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_9.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_9"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_10.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_10"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_Flam.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_10.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_10"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_8.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_8"
+    },
+    {},
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_9.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_9"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_Flam.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_8.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_8"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_3.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_3"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_6.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_6"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_Flam.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_1.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_1"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_10.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_10"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_1.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_1"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_7.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_7"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_2.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_2"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_5.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_5"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_3.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_3"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_10.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_10"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_3.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_3"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_2.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_2"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_11.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_11"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_2.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_2"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_4.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_4"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_1.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_1"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_5.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_5"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_6.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_6"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_10.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_10"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_6.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_6"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_7.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_7"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_Flam.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_7.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_7"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_1.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_1"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_4.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_4"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_6.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_6"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_3.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_3"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_5.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_5"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_Flam.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_5.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_5"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_4.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_4"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_A_4.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_A_4"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_10.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_10"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_A_2.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_A_2"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x6.5_Aluminium_Snare_7.mp3",
+      "packName": "US",
+      "soundName": "US_14x6.5_Aluminium_Snare_7"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_1.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_1"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_8.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_8"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_7.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_7"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_1.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_1"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_6.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_6"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x6.5_Aluminium_Snare_9.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x6.5_Aluminium_Snare_9"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_2.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_2"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_4.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_4"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_2.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_2"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_3.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_3"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_5.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_5"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_3.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_3"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_Flam.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_7.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_7"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_9.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_9"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_1.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_1"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_7.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_7"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_B_Flam.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_B_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_6.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_6"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x6.5_Aluminium_Snare_8.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x6.5_Aluminium_Snare_8"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_6.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_6"
+    },
+    {},
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_4.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_4"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_2.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_2"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_4.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_4"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/UK_14x8_Mahogany_Snare_B_5.mp3",
+      "packName": "UK",
+      "soundName": "UK_14x8_Mahogany_Snare_B_5"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/US_14x8_Mahogany_Snare_B_3.mp3",
+      "packName": "US",
+      "soundName": "US_14x8_Mahogany_Snare_B_3"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/PeaceTreaty_14x8_Mahogany_Snare_A_5.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_14x8_Mahogany_Snare_A_5"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Pioneer_Snare_Flam.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Pioneer_Snare_Flam"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Black_Stallion_Tight_High_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Black_Stallion_Tight_High_Tuning_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Black_Stallion_Tight_Payden_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Black_Stallion_Tight_Payden_Tuning_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Suprasonic_Big_Low_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Suprasonic_Big_Low_Tuning_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Suprasonic_Big_Payden_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Suprasonic_Big_Payden_Tuning_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Acro-Man_80s_Galaxy_Big_Medium_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Acro-Man_80s_Galaxy_Big_Medium_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Arizona_Snare_8.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Arizona_Snare_8"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/14x6.5_Aluminium_Snare_7_US.mp3",
+      "packName": "DSSxDP",
+      "soundName": "14x6.5_Aluminium_Snare_7_US"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Acro-Man_68_Tight_Payden_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Acro-Man_68_Tight_Payden_Tuning_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Suprasonic_Tight_High_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Suprasonic_Tight_High_Tuning_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/14x8_Mahogany_Snare_B_10_US.mp3",
+      "packName": "DSSxDP",
+      "soundName": "14x8_Mahogany_Snare_B_10_US"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Suprasonic_Tight_Medium_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Suprasonic_Tight_Medium_Tuning_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Black_Stallion_Big_Medium_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Black_Stallion_Big_Medium_Tuning_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Acro-Man_70s_Big_High_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Acro-Man_70s_Big_High_Tuning_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/DSSxDP_Cassette_Angry_Spring_Whip_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Cassette_Angry_Spring_Whip_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Acro-Man_80s_Galaxy_Tight_Low_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Acro-Man_80s_Galaxy_Tight_Low_Snare"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/DSSxDP_Space_Snare_Combined.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DSSxDP_Space_Snare_Combined"
+    },
+    {
+      "Instrument": "SNARE",
+      "Path": "./Snares/Black_Stallion_Big_Low_Tuning_Snare.mp3",
+      "packName": "DSSxDP",
+      "soundName": "Black_Stallion_Big_Low_Tuning_Snare"
+    }
+  ]
+}

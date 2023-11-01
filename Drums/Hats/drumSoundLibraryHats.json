@@ -1,0 +1,16 @@
+{
+  "drumSoundLibrary": [
+    {
+      "Instrument": "HI-HAT",
+      "Path": "./Hats/50s_Hats_Tight_Condenser_3.mp3",
+      "packName": "DSSxDP",
+      "soundName": "50s_Hats_Tight_Condenser_3"
+    },
+    {
+      "Instrument": "HI-HAT",
+      "Path": "./Hats/DISTORT_Grampian_808_Hat_1.mp3",
+      "packName": "DSSxDP",
+      "soundName": "DISTORT_Grampian_808_Hat_1"
+    }
+  ]
+}

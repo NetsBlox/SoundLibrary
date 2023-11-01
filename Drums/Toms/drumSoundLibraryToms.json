@@ -1,0 +1,547 @@
+{
+  "drumSoundLibrary": [
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_2.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_2"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_10.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_10"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_3.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_3"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_2.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_2"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_3.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_3"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_1.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_1"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_3.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_3"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_1.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_1"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_1.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_1"
+    },
+    {},
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_2.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_2"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_4.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_4"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_6.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_6"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_5.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_5"
+    },
+    {},
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_9.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_9"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_8.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_8"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_10.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_10"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_4.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_4"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_7.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_7"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_5.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_5"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_7.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_7"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_5.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_5"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_9.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_9"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_6.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_6"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_8.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_8"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_9.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_9"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_7.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_7"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_8.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_8"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_4.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_4"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_6.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_6"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_3.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_3"
+    },
+    {},
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_1.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_1"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_2.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_2"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_3.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_3"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_2.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_2"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_10.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_10"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_1.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_1"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_5.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_5"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_6.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_6"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_7.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_7"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_4.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_4"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_6.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_6"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_8.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_8"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_5.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_5"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_4.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_4"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_9.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_9"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_7.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_7"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_4.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_4"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_9.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_9"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_12_Tom_8.mp3",
+      "packName": "US",
+      "soundName": "US_12_Tom_8"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_5.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_5"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_10.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_10"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_9.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_9"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_7.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_7"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_10.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_10"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_6.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_6"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_12_Tom_8.mp3",
+      "packName": "UK",
+      "soundName": "UK_12_Tom_8"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_10.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_10"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_2.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_2"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_3.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_3"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_12_Tom_1.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_12_Tom_1"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_10.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_10"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_9.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_9"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_5.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_5"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_4.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_4"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_6.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_6"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_7.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_7"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_5.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_5"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_4.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_4"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_8.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_8"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_10.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_10"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_8.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_8"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_6.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_6"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_9.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_9"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_7.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_7"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_5.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_5"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_4.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_4"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_6.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_6"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_13_Tom_8.mp3",
+      "packName": "UK",
+      "soundName": "UK_13_Tom_8"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_7.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_7"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_16_Tom_9.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_16_Tom_9"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_3.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_3"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_2.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_2"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_3.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_3"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_1.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_1"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_2.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_2"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_3.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_3"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/PeaceTreaty_13_Tom_1.mp3",
+      "packName": "PeaceTreaty",
+      "soundName": "PeaceTreaty_13_Tom_1"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_16_Tom_2.mp3",
+      "packName": "US",
+      "soundName": "US_16_Tom_2"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/US_13_Tom_10.mp3",
+      "packName": "US",
+      "soundName": "US_13_Tom_10"
+    },
+    {
+      "Instrument": "TOMS",
+      "Path": "./Toms/UK_16_Tom_1.mp3",
+      "packName": "UK",
+      "soundName": "UK_16_Tom_1"
+    }
+  ]
+}
