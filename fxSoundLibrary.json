@@ -1,0 +1,32 @@
+{
+  "fxSoundLibrary": [
+    {
+      "Path": "./SoundLibrary/FX/sawtooth_wave.mp3",
+      "soundName": "sawtooth_wave"
+    },
+    {
+      "Path": "./SoundLibrary/FX/square_wave.mp3",
+      "soundName": "square_wave"
+    },
+    {
+      "Path": "./SoundLibrary/FX/sine_wave.mp3",
+      "soundName": "sine_wave"
+    },
+    {
+      "Path": "./SoundLibrary/FX/pink_noise.mp3",
+      "soundName": "pink_noise"
+    },
+    {
+      "Path": "./SoundLibrary/FX/triangle_wave.mp3",
+      "soundName": "triangle_wave"
+    },
+    {
+      "Path": "./SoundLibrary/FX/white_noise.mp3",
+      "soundName": "white_noise"
+    },
+    {
+      "Path": "./SoundLibrary/FX/brown_noise.mp3",
+      "soundName": "brown_noise"
+    }
+  ]
+}
