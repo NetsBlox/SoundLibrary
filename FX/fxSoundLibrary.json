@@ -1,51 +1,51 @@
 {
   "fxSoundLibrary": [
     {
-      "Path": "./pink_noise.mp3",
+      "Path": "./SoundLibrary/FX/pink_noise.mp3",
       "soundName": "pink_noise"
     },
     {
-      "Path": "./triangle_wave.mp3",
+      "Path": "./SoundLibrary/FX/triangle_wave.mp3",
       "soundName": "triangle_wave"
     },
     {
-      "Path": "./white_noise.mp3",
+      "Path": "./SoundLibrary/FX/white_noise.mp3",
       "soundName": "white_noise"
     },
     {
-      "Path": "./brown_noise.mp3",
+      "Path": "./SoundLibrary/FX/brown_noise.mp3",
       "soundName": "brown_noise"
     },
     {
-      "Path": "./ambulance.wav",
+      "Path": "./SoundLibrary/FX/ambulance.wav",
       "soundName": "ambulance"
     },
     {
-      "Path": "./cow_moo.wav",
+      "Path": "./SoundLibrary/FX/cow_moo.wav",
       "soundName": "cow_moo"
     },
     {
-      "Path": "./cowbell.wav",
+      "Path": "./SoundLibrary/FX/cowbell.wav",
       "soundName": "cowbell"
     },
     {
-      "Path": "./dog_barks.wav",
+      "Path": "./SoundLibrary/FX/dog_barks.wav",
       "soundName": "dog_barks"
     },
     {
-      "Path": "./police_sirens.wav",
+      "Path": "./SoundLibrary/FX/police_sirens.wav",
       "soundName": "police_sirens"
     },
     {
-      "Path": "./rain_heavy.wav",
+      "Path": "./SoundLibrary/FX/rain_heavy.wav",
       "soundName": "rain_heavy"
     },
     {
-      "Path": "./waterfall_big.wav",
+      "Path": "./SoundLibrary/FX/waterfall_big.wav",
       "soundName": "waterfall_big"
     },
     {
-      "Path": "./waterfall_tiny.wav",
+      "Path": "./SoundLibrary/FX/waterfall_tiny.wav",
       "soundName": "waterfall_tiny"
     }
   ]
