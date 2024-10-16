@@ -17,35 +17,35 @@
       "soundName": "brown_noise"
     },
     {
-      "Path": "./SoundLibrary/FX/ambulance.wav",
+      "Path": "./SoundLibrary/FX/ambulance.mp3",
       "soundName": "ambulance"
     },
     {
-      "Path": "./SoundLibrary/FX/cow_moo.wav",
+      "Path": "./SoundLibrary/FX/cow_moo.mp3",
       "soundName": "cow_moo"
     },
     {
-      "Path": "./SoundLibrary/FX/cowbell.wav",
+      "Path": "./SoundLibrary/FX/cowbell.mp3",
       "soundName": "cowbell"
     },
     {
-      "Path": "./SoundLibrary/FX/dog_barks.wav",
+      "Path": "./SoundLibrary/FX/dog_barks.mp3",
       "soundName": "dog_barks"
     },
     {
-      "Path": "./SoundLibrary/FX/police_sirens.wav",
+      "Path": "./SoundLibrary/FX/police_sirens.mp3",
       "soundName": "police_sirens"
     },
     {
-      "Path": "./SoundLibrary/FX/rain_heavy.wav",
+      "Path": "./SoundLibrary/FX/rain_heavy.mp3",
       "soundName": "rain_heavy"
     },
     {
-      "Path": "./SoundLibrary/FX/waterfall_big.wav",
+      "Path": "./SoundLibrary/FX/waterfall_big.mp3",
       "soundName": "waterfall_big"
     },
     {
-      "Path": "./SoundLibrary/FX/waterfall_tiny.wav",
+      "Path": "./SoundLibrary/FX/waterfall_tiny.mp3",
       "soundName": "waterfall_tiny"
     }
   ]
