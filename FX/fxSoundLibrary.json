@@ -1,18 +1,6 @@
 {
   "fxSoundLibrary": [
     {
-      "Path": "./sawtooth_wave.mp3",
-      "soundName": "sawtooth_wave"
-    },
-    {
-      "Path": "./square_wave.mp3",
-      "soundName": "square_wave"
-    },
-    {
-      "Path": "./sine_wave.mp3",
-      "soundName": "sine_wave"
-    },
-    {
       "Path": "./pink_noise.mp3",
       "soundName": "pink_noise"
     },
@@ -27,6 +15,38 @@
     {
       "Path": "./brown_noise.mp3",
       "soundName": "brown_noise"
+    },
+    {
+      "Path": "./ambulance.wav",
+      "soundName": "ambulance"
+    },
+    {
+      "Path": "./cow_moo.wav",
+      "soundName": "cow_moo"
+    },
+    {
+      "Path": "./cowbell.wav",
+      "soundName": "cowbell"
+    },
+    {
+      "Path": "./dog_barks.wav",
+      "soundName": "dog_barks"
+    },
+    {
+      "Path": "./police_sirens.wav",
+      "soundName": "police_sirens"
+    },
+    {
+      "Path": "./rain_heavy.wav",
+      "soundName": "rain_heavy"
+    },
+    {
+      "Path": "./waterfall_big.wav",
+      "soundName": "waterfall_big"
+    },
+    {
+      "Path": "./waterfall_tiny.wav",
+      "soundName": "waterfall_tiny"
     }
   ]
 }
