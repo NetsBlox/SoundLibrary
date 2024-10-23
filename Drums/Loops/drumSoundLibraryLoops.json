@@ -1325,6 +1325,27 @@
       "Path": "./Loops/Lame_Gazelle_5_70bpm.mp3",
       "packName": "DSSxDP",
       "soundName": "Lame_Gazelle_5_70bpm"
+    },
+    {
+      "BPM": "100bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/DIA_JWL_100bpm_abba_drum_loop.mp3",
+      "packName": "African",
+      "soundName": "DIA_JWL_100bpm_abba_drum_loop"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/LEX_UKAD_110bpm_Percussion_Loop_Banga_Vibes.mp3",
+      "packName": "African",
+      "soundName": "LEX_UKAD_110bpm_Percussion_Loop_Banga_Vibes"
+    },
+    {
+      "BPM": "100bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Loops/DIA_JWL_100bpm_abba_drum_loop.mp3",
+      "packName": "African",
+      "soundName": "DIA_JWL_100bpm_abba_drum_loop"
     }
   ]
 }

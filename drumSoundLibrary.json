@@ -2605,6 +2605,27 @@
       "soundName": "Lame_Gazelle_5_70bpm"
     },
     {
+      "BPM": "100bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Drums/Loops/DIA_JWL_100bpm_abba_drum_loop.mp3",
+      "packName": "African",
+      "soundName": "DIA_JWL_100bpm_abba_drum_loop"
+    },
+    {
+      "BPM": "110bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Drums/Loops/LEX_UKAD_110bpm_Percussion_Loop_Banga_Vibes.mp3",
+      "packName": "African",
+      "soundName": "LEX_UKAD_110bpm_Percussion_Loop_Banga_Vibes"
+    },
+    {
+      "BPM": "100bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Drums/Loops/DIA_JWL_100bpm_abba_drum_loop.mp3",
+      "packName": "African",
+      "soundName": "DIA_JWL_100bpm_abba_drum_loop"
+    },
+    {
       "Instrument": "KICK",
       "Path": "./SoundLibrary/Drums/Kicks/US_22_70s_Kick_6.mp3",
       "packName": "US",
