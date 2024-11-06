@@ -2626,6 +2626,378 @@
       "soundName": "DIA_JWL_100bpm_abba_drum_loop"
     },
     {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Drums/Loops/SOULSURPLUS_deeproots_drum_loop_02_percussion_shuffle_afrobeat_dry_80_bpm.mp3",
+      "packName": "African",
+      "soundName": "SOULSURPLUS_deeproots_drum_loop_02_percussion_shuffle_afrobeat_dry_80_bpm"
+    },
+    {
+      "BPM": "80bpm",
+      "Instrument": "LOOPS",
+      "Path": "./Drums/Loops/SS_AP_80_drum_loop_coral.mp3",
+      "packName": "African",
+      "soundName": "SS_AP_80_drum_loop_coral"
+    },
+    {
+      "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AT_90_drum_loop_dancehall_beni.mp3",
+       "packName": "African",
+       "soundName": "SS_AT_90_drum_loop_dancehall_beni"
+     },
+     {
+      "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SOULSURPLUS_deeproots_drum_loop_13_boom_kick_afrobeat_room_wet_90_bpm.mp3",
+       "packName": "African",
+       "soundName": "SOULSURPLUS_deeproots_drum_loop_13_boom_kick_afrobeat_room_wet_90_bpm"
+     },
+     {
+       "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/AU_AMH2_90_drum_loop_full_lake.mp3",
+       "packName": "African",
+       "soundName": "AU_AMH2_90_drum_loop_full_lake"
+     },
+     {
+       "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/AU_AMH2_90_drum_loop_full_pepper.mp3",
+       "packName": "African",
+       "soundName": "AU_AMH2_90_drum_loop_full_pepper"
+     },
+     {
+       "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AT_90_drum_loop_afrobeat_kenge.mp3",
+       "packName": "African",
+       "soundName": "SS_AT_90_drum_loop_afrobeat_kenge"
+     },
+     {
+       "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/LEX_UKAD_90_Drum_Loop_You_Will_Jump_Around.mp3",
+       "packName": "African",
+       "soundName": "LEX_UKAD_90_Drum_Loop_You_Will_Jump_Around"
+     },
+     {
+       "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AT_90_drum_loop_hiphop_banana.mp3",
+       "packName": "African",
+       "soundName": "SS_AT_90_drum_loop_hiphop_banana"
+     },
+     {
+       "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/ABP_Drum_Loop_90_02.mp3",
+       "packName": "African",
+       "soundName": "ABP_Drum_Loop_90_02"
+     },
+     {
+       "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/ABP_Drum_Loop_90_03.mp3",
+       "packName": "African",
+       "soundName": "ABP_Drum_Loop_90_03"
+     },
+     {
+       "BPM": "90bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AT_90_drum_loop_hiphop_bagata.mp3",
+       "packName": "African",
+       "soundName": "SS_AT_90_drum_loop_hiphop_bagata"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AT_100_drum_loop_dancehall_sakania.mp3",
+       "packName": "African",
+       "soundName": "SS_AT_100_drum_loop_dancehall_sakania"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/RKU_VA_100_Drum_Loop_Full_Soweto.mp3",
+       "packName": "African",
+       "soundName": "RKU_VA_100_Drum_Loop_Full_Soweto"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/DD_TAAD_100_drums_grooves_afrobeat_style_snare_variation.mp3",
+       "packName": "African",
+       "soundName": "DD_TAAD_100_drums_grooves_afrobeat_style_snare_variation"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AB_100_drum_loop_sizzlethrust.mp3",
+       "packName": "African",
+       "soundName": "SS_AB_100_drum_loop_sizzlethrust"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/ABP_Drum_Loop_100_02.mp3",
+       "packName": "African",
+       "soundName": "ABP_Drum_Loop_100_02"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AB_100_drum_loop_snaredancethrust.mp3",
+       "packName": "African",
+       "soundName": "SS_AB_100_drum_loop_snaredancethrust"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/RKU_VA_100_Drum_Loop_Full_Blowing.mp3",
+       "packName": "African",
+       "soundName": "RKU_VA_100_Drum_Loop_Full_Blowing"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/LEX_AL_Afrolab_100_Drum_Loop_Wet_Lucid_Dreams.mp3",
+       "packName": "African",
+       "soundName": "LEX_AL_Afrolab_100_Drum_Loop_Wet_Lucid_Dreams"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AT_100_drum_loop_dancehall_punia.mp3",
+       "packName": "African",
+       "soundName": "SS_AT_100_drum_loop_dancehall_punia"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AB_100_drum_loop_sidethrust.mp3",
+       "packName": "African",
+       "soundName": "SS_AB_100_drum_loop_sidethrust"
+     },
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/AU_AMH2_100_drum_loop_full_yellow.mp3",
+       "packName": "African",
+       "soundName": "AU_AMH2_100_drum_loop_full_yellow"
+     },
+ 
+     {
+      "BPM": "100bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/RKU_VA_100_Drum_Loop_Full_Flex.mp3",
+       "packName": "African",
+       "soundName": "RKU_VA_100_Drum_Loop_Full_Flex"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/LEX_AL_AfrolaB_110_Drum_Loop_Wet_Amakora.mp3",
+       "packName": "African",
+       "soundName": "LEX_AL_AfrolaB_110_Drum_Loop_Wet_Amakora"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SO_AFR_110_drum_loop_perc_kaffrine_blue.mp3",
+       "packName": "African",
+       "soundName": "SO_AFR_110_drum_loop_perc_kaffrine_blue"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/LEX_UKAD_110_Drum_Loop_Akwaba.mp3",
+       "packName": "African",
+       "soundName": "LEX_UKAD_110_Drum_Loop_Akwaba"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/DD_TAAD_110_drums_grooves_shuffle_hats_w_hat_bark.mp3",
+       "packName": "African",
+       "soundName": "DD_TAAD_110_drums_grooves_shuffle_hats_w_hat_bark"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/LEX_AL_AfrolaB_110_Drum_Loop_Lofi_Amakora.mp3",
+       "packName": "African",
+       "soundName": "LEX_AL_AfrolaB_110_Drum_Loop_Lofi_Amakora"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AT_110_drum_loop_afrobeat_opala.mp3",
+       "packName": "African",
+       "soundName": "SS_AT_110_drum_loop_afrobeat_opala"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AB_110_perc_loop_eveningdance.mp3",
+       "packName": "African",
+       "soundName": "SS_AB_110_perc_loop_eveningdance"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AB_110_perc_loop_theauthorities.mp3",
+       "packName": "African",
+       "soundName": "SS_AB_110_perc_loop_theauthorities"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/LEX_AL_Afrolab_110_Drum_Loop_Lofi_Mbeugel.mp3",
+       "packName": "African",
+       "soundName": "LEX_AL_Afrolab_110_Drum_Loop_Lofi_Mbeugel"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AT_110_drum_loop_afrobeat_mokambo.mp3",
+       "packName": "African",
+       "soundName": "SS_AT_110_drum_loop_afrobeat_mokambo"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/LEX_AL_Afrolab_110_Drum_Loop_Wet_Mbeugel.mp3",
+       "packName": "African",
+       "soundName": "LEX_AL_Afrolab_110_Drum_Loop_Wet_Mbeugel"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SS_AB_110_perc_loop_insistent.mp3",
+       "packName": "African",
+       "soundName": "SS_AB_110_perc_loop_insistent"
+     },
+     {
+      "BPM": "110bpm",
+       "Instrument": "LOOPS",
+       "Path": "./Drums/Loops/SO_AFR_110_drum_loop_kaffrine_blue.mp3",
+       "packName": "African",
+       "soundName": "SO_AFR_110_drum_loop_kaffrine_blue"
+     },
+     {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SS_AT_120_drum_loop_afrobeat_dulia.mp3",
+        "packName": "African",
+        "soundName": "SS_AT_120_drum_loop_afrobeat_dulia"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SS_SL_120_perc_loop_limebounce.mp3",
+        "packName": "African",
+        "soundName": "SS_SL_120_perc_loop_limebounce"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/AU_AMH2_120_drum_loop_full_message.mp3",
+        "packName": "African",
+        "soundName": "AU_AMH2_120_drum_loop_full_message"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SO_DH_120_drum_loop_flapflap_dirty_latin.mp3",
+        "packName": "African",
+        "soundName": "SO_DH_120_drum_loop_flapflap_dirty_latin"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SS_AT_120_drum_loop_afrobeat_kalemi.mp3",
+        "packName": "African",
+        "soundName": "SS_AT_120_drum_loop_afrobeat_kalemi"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SS_SL_120_perc_loop_bananapeel.mp3",
+        "packName": "African",
+        "soundName": "SS_SL_120_perc_loop_bananapeel"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/DD_TAAD_120_drums_grooves_light_hat_shuffle.mp3",
+        "packName": "African",
+        "soundName": "DD_TAAD_120_drums_grooves_light_hat_shuffle"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SS_AT_120_drum_loop_afrobeat_gwane.mp3",
+        "packName": "African",
+        "soundName": "SS_AT_120_drum_loop_afrobeat_gwane"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SS_AT_120_drum_loop_afrobeat_binikisi.mp3",
+        "packName": "African",
+        "soundName": "SS_AT_120_drum_loop_afrobeat_binikisi"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SS_AT_120_drum_loop_afrobeat_bikoro.mp3",
+        "packName": "African",
+        "soundName": "SS_AT_120_drum_loop_afrobeat_bikoro"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/RKU_AWA_120_Drum_Loop_Full_Baba.mp3",
+        "packName": "African",
+        "soundName": "RKU_AWA_120_Drum_Loop_Full_Baba"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/RKU_AWA_120_Drum_Loop_Full_Deluxe_Baba.mp3",
+        "packName": "African",
+        "soundName": "RKU_AWA_120_Drum_Loop_Full_Deluxe_Baba"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/DD_TAAD_120_drums_grooves_heavy_hat_shuffle.mp3",
+        "packName": "African",
+        "soundName": "DD_TAAD_120_drums_grooves_heavy_hat_shuffle"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SS_AT_120_drum_loop_afrobeat_salong.mp3",
+        "packName": "African",
+        "soundName": "SS_AT_120_drum_loop_afrobeat_salong"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/SS_SL_120_perc_loop_ilama.mp3",
+        "packName": "African",
+        "soundName": "SS_SL_120_perc_loop_ilama"
+      },
+      {
+      "BPM": "120bpm",
+        "Instrument": "LOOPS",
+        "Path": "./Drums/Loops/AU_AMH2_120_drum_loop_full_soldier.mp3",
+        "packName": "African",
+        "soundName": "AU_AMH2_120_drum_loop_full_soldier"
+      },
+    {
       "Instrument": "KICK",
       "Path": "./Drums/Kicks/US_22_70s_Kick_6.mp3",
       "packName": "US",
